@@ -1,0 +1,111 @@
+{
+  "extractedFrom": "https://pro-media-microsite.vercel.app/",
+  "extractedAt": "2026-11-21",
+  "extractionMethod": "Live headless Chromium DOM & interactive orbit-node inspection",
+  "links": [
+    {
+      "id": "facebook",
+      "label": "Facebook (MohamedElhaganPromedia)",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/MohamedElhaganPromedia",
+      "finalUrl": "https://www.facebook.com/MohamedElhaganPromedia",
+      "handle": "MohamedElhaganPromedia",
+      "publicMetricNote": "1,080,024 followers (observed on microsite link check)",
+      "verificationStatus": "VERIFIED",
+      "includeInPublicUI": true
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram (@m.ellhagan)",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/m.ellhagan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "cleanUrl": "https://www.instagram.com/m.ellhagan",
+      "finalUrl": "https://www.instagram.com/m.ellhagan",
+      "handle": "@m.ellhagan",
+      "publicMetricNote": "630K followers, 1,793 posts (observed on microsite link check)",
+      "verificationStatus": "VERIFIED",
+      "includeInPublicUI": true
+    },
+    {
+      "id": "tiktok",
+      "label": "TikTok (@elhaganofficial)",
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@elhaganofficial?_r=1&_t=zs-980395yuus4",
+      "cleanUrl": "https://www.tiktok.com/@elhaganofficial",
+      "finalUrl": "https://www.tiktok.com/@elhaganofficial",
+      "handle": "@elhaganofficial",
+      "publicMetricNote": "339.7K followers, 1.2M likes (observed on microsite link check)",
+      "verificationStatus": "VERIFIED",
+      "includeInPublicUI": true
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube (@mohamedelhagan)",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@mohamedelhagan",
+      "cleanUrl": "https://www.youtube.com/@MohamedElhagan",
+      "finalUrl": "https://www.youtube.com/@mohamedelhagan",
+      "handle": "@MohamedElhagan",
+      "publicMetricNote": "8.37K subscribers, 742 videos (observed on microsite link check)",
+      "verificationStatus": "VERIFIED",
+      "includeInPublicUI": true
+    },
+    {
+      "id": "x",
+      "label": "X (Twitter) (@mohamedelhagan2)",
+      "platform": "X",
+      "url": "https://x.com/mohamedelhagan2?s=20",
+      "cleanUrl": "https://x.com/mohamedelhagan2",
+      "finalUrl": "https://x.com/mohamedelhagan2?s=20",
+      "handle": "@mohamedelhagan2",
+      "publicMetricNote": "Media Producer, Video Creator, Director — Cairo, Egypt",
+      "verificationStatus": "VERIFIED",
+      "includeInPublicUI": true
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn (mohamed-elhagan)",
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mohamed-elhagan-728a89346/",
+      "cleanUrl": "https://eg.linkedin.com/in/mohamed-elhagan-728a89346",
+      "finalUrl": "https://www.linkedin.com/in/mohamed-elhagan-728a89346/",
+      "handle": "mohamed-elhagan-728a89346",
+      "publicMetricNote": "Matched user-supplied LinkedIn URL; public headless visit redirected to LinkedIn authwall",
+      "verificationStatus": "CONFIRMED_URL_AUTHWALL",
+      "includeInPublicUI": true
+    },
+    {
+      "id": "location",
+      "label": "Location (Pro Media HQ)",
+      "platform": "Google Maps / Search",
+      "url": "https://share.google/FCtuJmaPqhYDHY8Gx",
+      "finalUrl": "https://www.google.com/search?kgmid=/g/11yfzc_c7f&q=ProMedia+Group",
+      "handle": "ProMedia Group Al Haram",
+      "publicMetricNote": "178 Area H, From Elgeish Road, Hadayek Al Haram, Giza Governorate 12556; Tel: 010 61119700 / 010 6393 3264",
+      "verificationStatus": "VERIFIED",
+      "includeInPublicUI": true
+    },
+    {
+      "id": "website",
+      "label": "Website (elhagan.com)",
+      "platform": "Website",
+      "url": "https://elhagan.com/",
+      "finalUrl": "https://elhagan.com/",
+      "handle": "elhagan.com",
+      "publicMetricNote": "Loaded empty page / blocked origin during check",
+      "verificationStatus": "UNVERIFIED_EMPTY",
+      "includeInPublicUI": false
+    },
+    {
+      "id": "snapchat",
+      "label": "Snapchat (elhagan)",
+      "platform": "Snapchat",
+      "url": "https://snapchat.com/t/KGHZGaAU",
+      "finalUrl": "https://www.snapchat.com/t/KGHZGaAU",
+      "handle": "elhagan",
+      "publicMetricNote": "Returned HTTP 404 (Content not found)",
+      "verificationStatus": "BROKEN_404",
+      "includeInPublicUI": false
+    }
+  ]
+}

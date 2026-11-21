@@ -1,0 +1,68 @@
+{
+  "name": "ProMedia",
+  "legalDisplay": "ProMedia Group",
+  "founded": "2016",
+  "website": "https://www.pro-m-edia.com",
+  "websiteDisplay": "www.pro-m-edia.com",
+  "microsite": "https://pro-media-microsite.vercel.app/",
+  "logo": "/assets/promedia-logo.png",
+  "logoDimensions": { "width": 572, "height": 433 },
+  "logoRule": "MUST ALWAYS appear on a pure white (#FFFFFF) background. Never invert or place on dark/colored surfaces.",
+  "tagline": {
+    "ar": "بيت الإنتاج الإبداعي خلف برنامج التركايه",
+    "en": "The Production House Behind TURKEYA"
+  },
+  "introduction": {
+    "ar": "تأسست مجموعة ProMedia عام ٢٠١٦ بقيادة محمد الهجان كبيت إنتاج إعلامي وإبداعي متكامل في القاهرة، يجمع بين الإخراج السينمائي، وإنتاج البرامج التلفزيونية والرقمية، واستراتيجيات المحتوى، وتصميم الشراكات التجارية للعلامات الكبرى داخل مصر والمنطقة العربية.",
+    "en": "Founded in 2016 by Mohamed Elhagan, ProMedia Group is a full-service Cairo-based media production house and creative agency specializing in cinematic filmmaking, flagship broadcast & digital talk shows, content strategy, and brand collaborations across Egypt and the Arab world."
+  },
+  "capabilities": [
+    {
+      "id": "creative-direction",
+      "title": { "ar": "التوجيه الإبداعي والهوية", "en": "Creative Direction & Identity" },
+      "description": {
+        "ar": "صياغة الهوية البصرية والسردية للبرامج الحوارية والإنتاجات الإعلامية الكبرى من الفكرة وحتى البث.",
+        "en": "Crafting visual identity, set direction, and narrative architecture for flagship shows from concept to broadcast."
+      }
+    },
+    {
+      "id": "media-production",
+      "title": { "ar": "الإنتاج الإعلامي والسينمائي", "en": "Cinematic Media Production" },
+      "description": {
+        "ar": "تصوير متعدد الكاميرات، هندسة صوتية احترافية، إخراج ومونتاج بمعايير القنوات الفضائية والمنصات الرقمية.",
+        "en": "Multi-camera studio production, broadcast audio engineering, directing, and post-production for TV and digital."
+      }
+    },
+    {
+      "id": "content-strategy",
+      "title": { "ar": "استراتيجية المحتوى والتوزيع", "en": "Content Strategy & Distribution" },
+      "description": {
+        "ar": "بناء منظومات نشر رقمية متعددة المنصات لتعظيم الوصول وبناء مجتمعات متفاعلة ومستدامة.",
+        "en": "Multi-platform editorial and distribution pipelines built for organic reach and durable audience engagement."
+      }
+    },
+    {
+      "id": "brand-collaboration",
+      "title": { "ar": "شراكات العلامات التجارية", "en": "Brand Collaboration & Sponsorships" },
+      "description": {
+        "ar": "دمج العلامات التجارية والمنتجات بأسلوب تحريري راقٍ يحقق المصداقية والعائد التجاري.",
+        "en": "Authentic, high-credibility brand integrations and commercial sponsorships tailored for corporate partners."
+      }
+    }
+  ],
+  "contact": {
+    "address": {
+      "ar": "١٧٨ المنطقة ح، متفرع من طريق الجيش، حدائق الأهرام، الجيزة ١٢٥٥٦، مصر",
+      "en": "178 Area H, Off El-Geish Road, Hadayek Al Haram, Giza 12556, Egypt"
+    },
+    "location": { "ar": "حدائق الأهرام، الجيزة — مصر", "en": "Hadayek Al Haram, Giza — Egypt" },
+    "googleMapsUrl": "https://share.google/FCtuJmaPqhYDHY8Gx",
+    "phones": ["+20 10 6111 9700", "+20 10 6393 3264"],
+    "hours": {
+      "ar": "الأحد – الخميس: ٩:٠٠ صباحاً – ٩:٠٠ مساءً",
+      "en": "Sun – Thu: 9:00 AM – 9:00 PM"
+    },
+    "email": null,
+    "status": "VERIFIED_VIA_GOOGLE_KNOWLEDGE_PANEL"
+  }
+}

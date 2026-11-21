@@ -1,0 +1,122 @@
+{
+  "brand": {
+    "ar": "التركايه",
+    "en": "TURKEYA",
+    "tagline": {
+      "ar": "إنتاج أصلي من ProMedia",
+      "en": "A ProMedia Original Production"
+    },
+    "logoPath": "/assets/التركايه .png",
+    "logoAlt": {
+      "ar": "الشعار الرسمي لبرنامج التركايه",
+      "en": "Official TURKEYA Show Logo"
+    }
+  },
+  "navigation": [
+    { "id": "about", "href": "#about", "label": { "ar": "عن البرنامج", "en": "About" } },
+    { "id": "season-one", "href": "#season-one", "label": { "ar": "الموسم الأول", "en": "Season One" } },
+    { "id": "guests", "href": "#guests", "label": { "ar": "الضيوف", "en": "Guests" } },
+    { "id": "episodes", "href": "#episodes", "label": { "ar": "الحلقات", "en": "Episodes" } },
+    { "id": "host", "href": "#host", "label": { "ar": "مقدم البرنامج", "en": "Host" } },
+    { "id": "promedia", "href": "#promedia", "label": { "ar": "ProMedia", "en": "ProMedia" } },
+    { "id": "sponsorship", "href": "#sponsorship", "label": { "ar": "الرعاية والشراكات", "en": "Partnerships" } }
+  ],
+  "hero": {
+    "seasonBadge": {
+      "ar": "الموسم الأول • إنتاج ProMedia الأصلي",
+      "en": "Season One • A ProMedia Original"
+    },
+    "headline": {
+      "ar": "حوارات عميقة تصنع الفارق وتكشف «التركايه»",
+      "en": "Editorial Conversations That Uncover the Defining Formula"
+    },
+    "subheadline": {
+      "ar": "برنامج حواري مصري بمعايير إنتاجية سينمائية يجمع نخبة من القادة، الأطباء، المفكرين ورواد الأعمال في لقاءات استثنائية مع محمد الهجان.",
+      "en": "A flagship Egyptian talk-show production by ProMedia bringing together leaders, specialists, authors, and entrepreneurs in intimate, cinematic conversations hosted by Mohamed Elhagan."
+    },
+    "primaryCta": {
+      "ar": "شاهد الحلقات",
+      "en": "Watch Episodes",
+      "href": "#episodes"
+    },
+    "secondaryCta": {
+      "ar": "استفسر عن الرعاية",
+      "en": "Partnership Inquiry",
+      "href": "#sponsorship"
+    },
+    "studioBackdropAsset": "/assets/mohamed-elhagan-hero.jpg",
+    "studioBackdropAlt": {
+      "ar": "محمد الهجان — مقدم برنامج التركايه",
+      "en": "Mohamed Elhagan — Host of TURKEYA"
+    },
+    "highlights": [
+      {
+        "id": "season",
+        "value": { "ar": "الموسم ١", "en": "Season 01" },
+        "label": { "ar": "إنتاج مصري متكامل", "en": "Established Production" }
+      },
+      {
+        "id": "guests",
+        "value": { "ar": "+٩ ضيوف", "en": "9+ Guests" },
+        "label": { "ar": "نخبة من القادة والخبراء", "en": "Leaders & Specialists" }
+      },
+      {
+        "id": "production",
+        "value": { "ar": "ProMedia", "en": "ProMedia" },
+        "label": { "ar": "هوية وإخراج سينمائي", "en": "Production House" }
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": { "ar": "عن التركايه", "en": "About TURKEYA" },
+    "title": {
+      "ar": "مساحة حوارية راقية تلتقي فيها الخبرة بالإنتاج السينمائي",
+      "en": "An Editorial Stage Where Expertise Meets Cinematic Production"
+    },
+    "description": {
+      "ar": "يقدم برنامج «التركايه» تجربة حوارية مصرية معاصرة تركز على القيمة الحقيقية، والتجارب العملية، والأفكار الملهمة بعيداً عن الإثارة السطحية؛ مما يمنح الجمهور محتوى ثرياً ويمنح العلامات التجارية بيئة إعلامية موثوقة ورفيعة المستوى.",
+      "en": "TURKEYA delivers a modern Egyptian talk-show experience built around substance, lived expertise, and high-caliber storytelling—offering audiences meaningful conversations and giving commercial partners a credible, premium media environment."
+    },
+    "editorialMissionStatus": "PENDING_REVIEW",
+    "pillars": [
+      {
+        "id": "depth",
+        "title": { "ar": "عمق تحريري", "en": "Editorial Depth" },
+        "body": {
+          "ar": "حوارات مدروسة تركز على الدروس الواقعية وتفاصيل النجاح في مختلف المجالات.",
+          "en": "Thoughtful conversations focused on real-world lessons and defining insights."
+        }
+      },
+      {
+        "id": "cinema",
+        "title": { "ar": "جودة إنتاجية سينمائية", "en": "Cinematic Craft" },
+        "body": {
+          "ar": "إضاءة، صوت، وإخراج بصري بمعايير احترافية تعكس هوية ProMedia الإنتاجية.",
+          "en": "Broadcast lighting, crisp audio, and visual direction engineered by ProMedia."
+        }
+      },
+      {
+        "id": "brands",
+        "title": { "ar": "بيئة مثالية للعلامات التجارية", "en": "Brand-Safe Positioning" },
+        "body": {
+          "ar": "حضور راقٍ يلائم الشركات الكبرى والوكالات الإعلانية الباحثة عن التأثير والمصداقية.",
+          "en": "A refined media environment tailored for corporate sponsors and agencies seeking credibility."
+        }
+      }
+    ]
+  },
+  "ui": {
+    "skipToContent": { "ar": "انتقل إلى المحتوى الرئيسي", "en": "Skip to main content" },
+    "switchLanguage": { "ar": "English", "en": "العربية" },
+    "openMenu": { "ar": "افتح القائمة", "en": "Open navigation menu" },
+    "closeMenu": { "ar": "أغلق القائمة", "en": "Close navigation menu" },
+    "footerProductionCredit": {
+      "ar": "إحدى إنتاجات شركة ProMedia الأصلية",
+      "en": "An Original Production by ProMedia"
+    },
+    "copyright": {
+      "ar": "جميع الحقوق محفوظة لبرنامج التركايه و ProMedia",
+      "en": "All rights reserved — TURKEYA & ProMedia"
+    }
+  }
+}

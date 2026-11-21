@@ -1,0 +1,147 @@
+{
+  "eyebrow": {
+    "ar": "الرعاية والشراكات التجارية",
+    "en": "Sponsorship & Commercial Partnerships"
+  },
+  "headline": {
+    "ar": "شراكات إعلامية بمعايير إنتاجية تليق بعلامتك التجارية",
+    "en": "Commercial Partnerships Engineered for Brand Authority"
+  },
+  "subheadline": {
+    "ar": "يقدم برنامج «التركايه» من إنتاج ProMedia منصة حوارية موثوقة وراقية تصل إلى جمهور واعٍ من المهنيين، رواد الأعمال، والأسرة العربية — مع حلول رعاية مرنة ومصممة خصيصاً لأهداف الشركات والوكالات الإعلانية.",
+    "en": "Produced by ProMedia, TURKEYA offers a credible, brand-safe editorial environment connecting corporate sponsors and advertising agencies with an engaged audience of professionals, founders, and decision-makers."
+  },
+  "whyPartner": [
+    {
+      "id": "credibility",
+      "title": { "ar": "بيئة إعلامية موثوقة وآمنة للعلامات", "en": "Credible, Brand-Safe Environment" },
+      "description": {
+        "ar": "محتوى حواري رصين بعيد عن الإثارة السطحية، يضع علامتك التجارية إلى جوار نخبة من الأطباء، الكتاب، المستشارين، وقادة الأعمال.",
+        "en": "Substantive editorial conversations free from clickbait—aligning your brand alongside respected physicians, authors, consultants, and leaders."
+      }
+    },
+    {
+      "id": "production",
+      "title": { "ar": "إخراج سينمائي يرفع قيمة الظهور", "en": "Broadcast-Grade Visual Equity" },
+      "description": {
+        "ar": "إضاءة سينمائية، تصميم استوديو راقٍ، وجودة صوت وصورة احترافية من توقيع ProMedia تجعل ظهور علامتك جزءاً أصيلاً من تجربة فاخرة.",
+        "en": "Cinematic lighting, refined studio art direction, and ProMedia post-production ensure every brand touchpoint feels native and premium."
+      }
+    },
+    {
+      "id": "ecosystem",
+      "title": { "ar": "منظومة توزيع رقمية متعددة المنصات", "en": "Multi-Platform Digital Ecosystem" },
+      "description": {
+        "ar": "انتشار متكامل عبر حلقات يوتيوب الكاملة ومقاطع قصيرة مصممة لمنصات فيسبوك وإنستجرام وتيك توك، مدعومة بالحضور الرقمي الواسع لمقدم البرنامج ومجموعة ProMedia.",
+        "en": "Full-length YouTube episodes paired with high-retention vertical cuts distributed across Facebook, Instagram, and TikTok through Mohamed Elhagan and ProMedia channels."
+      }
+    },
+    {
+      "id": "season-two",
+      "title": { "ar": "جاهزية تامة للموسم الثاني والحملات الموسمية", "en": "Season Two & Campaign Readiness" },
+      "description": {
+        "ar": "بعد نجاح تأسيس الموسم الأول، تتيح الشراكة المبكرة حجز مساحات الرعاية الحصرية والتخطيط التحريري المشترك للموسم القادم.",
+        "en": "Building on the established Season One portfolio, early partners gain priority category exclusivity and co-planned editorial integration for upcoming seasons."
+      }
+    }
+  ],
+  "seasonOneAchievements": {
+    "title": { "ar": "إنجازات وتأسيس الموسم الأول", "en": "Season One Foundation & Achievements" },
+    "items": [
+      {
+        "label": { "ar": "حلقات مصوّرة بالكامل", "en": "Filmed Season One Episodes" },
+        "value": { "ar": "١٠ – ١١ حلقة", "en": "10–11 Episodes" },
+        "note": { "ar": "تقدير الإنتاج الأولي — قابل للتحديث", "en": "Preliminary production count" }
+      },
+      {
+        "label": { "ar": "تنوع ضيوف النخبة", "en": "Cross-Disciplinary Guest Roster" },
+        "value": { "ar": "٩+ قادة وخبراء", "en": "9+ Leaders & Experts" },
+        "note": { "ar": "الطب، التسويق، الأدب، الكوتشينج، والتطوير المهني", "en": "Medicine, marketing, authorship, coaching & careers" }
+      },
+      {
+        "label": { "ar": "منظومة مقدم البرنامج الرقمية", "en": "Host Digital Ecosystem Reach" },
+        "value": { "ar": "+٢ مليون متابع", "en": "2M+ Combined Followers" },
+        "note": { "ar": "مجموع متابعي محمد الهجان عبر فيسبوك (1.08M)، إنستجرام (630K)، تيك توك (339K)، ويوتيوب", "en": "Verified host channels: Facebook (1.08M), Instagram (630K), TikTok (339.7K) & YouTube" }
+      }
+    ]
+  },
+  "tiers": [
+    {
+      "id": "main-season",
+      "category": "TIER",
+      "title": { "ar": "الراعي الرئيسي للموسم", "en": "Main Season Sponsor" },
+      "summary": {
+        "ar": "ملكية حصرية لهوية الموسم مع ظهور رئيسي في شارة البداية والنهاية، خلفية الاستوديو، جميع الحلقات، وكافة المواد الترويجية للموسم.",
+        "en": "Flagship category-exclusive ownership across opening/closing titles, studio integration, full season episodes, and all promotional assets."
+      }
+    },
+    {
+      "id": "official-sponsor",
+      "category": "TIER",
+      "title": { "ar": "الراعي الرسمي للبرنامج", "en": "Official Show Sponsor" },
+      "summary": {
+        "ar": "حضور بارز ومتكرر عبر الحلقات المختارة والمنصات الرقمية مع تكامل بصري وذكر تحريري احترافي للعلامة التجارية.",
+        "en": "Prominent recurring presence across episodes and digital distribution channels with visual branding and host acknowledgments."
+      }
+    },
+    {
+      "id": "episode-sponsorship",
+      "category": "FORMAT",
+      "title": { "ar": "رعاية حلقة كاملة", "en": "Episode Sponsorship" },
+      "summary": {
+        "ar": "ارتباط مباشر بحلقة محددة يتوافق ضيفها وموضوعها تماماً مع شريحة جمهورك المستهدف.",
+        "en": "Targeted ownership of a specific episode whose guest and topic align directly with your ideal customer profile."
+      }
+    },
+    {
+      "id": "segment-sponsorship",
+      "category": "FORMAT",
+      "title": { "ar": "رعاية الفقرات التحريرية", "en": "Sponsored Segments" },
+      "summary": {
+        "ar": "تقديم فقرة ثابتة داخل الحلقة تحمل اسم العلامة التجارية وتدمج رسالتها ضمن سياق الحوار بشكل طبيعي.",
+        "en": "Branded recurring editorial segment woven seamlessly into the conversation flow with dedicated visual bumpers."
+      }
+    },
+    {
+      "id": "product-placement",
+      "category": "FORMAT",
+      "title": { "ar": "الظهور الإبداعي للمنتجات", "en": "Product Placement" },
+      "summary": {
+        "ar": "دمج بصري أنيق ومدروس للمنتج أو الخدمة داخل ديكور الاستوديو ولقطات الحوار دون إقحام إعلاني.",
+        "en": "Art-directed, natural placement of products or services within the studio set and episode cinematography."
+      }
+    },
+    {
+      "id": "social-campaigns",
+      "category": "DIGITAL",
+      "title": { "ar": "حملات منصات التواصل والريلز", "en": "Social Media & Short-Form Campaigns" },
+      "summary": {
+        "ar": "توزيع مقاطع قصيرة عالية التفاعل مصحوبة بوسوم وإشارات تجارية مشتركة عبر فيسبوك وإنستجرام وتيك توك ويوتيوب شورتس.",
+        "en": "Co-branded vertical reels and high-engagement clips distributed across Facebook, Instagram, TikTok, and YouTube Shorts."
+      }
+    },
+    {
+      "id": "media-partnerships",
+      "category": "STRATEGIC",
+      "title": { "ar": "الشراكات الإعلامية والاستراتيجية", "en": "Strategic Media Partnerships" },
+      "summary": {
+        "ar": "تعاون طويل الأمد مع الوكالات الإعلانية، المؤسسات الكبرى، والمنصات الرقمية لإنتاج سلاسل وحملات مشتركة.",
+        "en": "Long-term collaborations with advertising agencies, corporate groups, and media networks for co-produced series and campaigns."
+      }
+    }
+  ],
+  "pricingPolicy": {
+    "ar": "يتم إعداد الباقات والعروض المالية بشكل مخصص وفقاً لأهداف كل علامة تجارية ونطاق الحملة.",
+    "en": "Sponsorship investment and deliverable packages are custom-structured based on campaign objectives and category scope."
+  },
+  "industries": [
+    { "value": "banking-fintech", "label": { "ar": "البنوك والخدمات المالية", "en": "Banking & Fintech" } },
+    { "value": "real-estate", "label": { "ar": "التطوير العقاري", "en": "Real Estate" } },
+    { "value": "healthcare-pharma", "label": { "ar": "الرعاية الصحية والأدوية", "en": "Healthcare & Pharma" } },
+    { "value": "fmcg-retail", "label": { "ar": "السلع الاستهلاكية والتجزئة", "en": "FMCG & Retail" } },
+    { "value": "telecom-tech", "label": { "ar": "الاتصالات والتكنولوجيا", "en": "Telecom & Technology" } },
+    { "value": "automotive", "label": { "ar": "السيارات والتنقل", "en": "Automotive & Mobility" } },
+    { "value": "agency-media", "label": { "ar": "وكالة إعلانية / شريك إعلامي", "en": "Advertising Agency / Media Partner" } },
+    { "value": "other", "label": { "ar": "قطاع آخر", "en": "Other Industry" } }
+  ]
+}

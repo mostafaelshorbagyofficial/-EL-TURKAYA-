@@ -1,0 +1,49 @@
+{
+  "season": 1,
+  "measuredAt": "2026-11-21",
+  "metrics": [
+    {
+      "id": "published-episodes",
+      "label": { "ar": "الحلقات المنشورة على يوتيوب", "en": "Published Full Episodes (YouTube)" },
+      "value": "8",
+      "measurementPeriod": "Dec 2025 – Nov 2026",
+      "source": "YouTube (@MohamedElhagan, @Karim_Alshazley, @Umrezz1)",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "youtube-episode-views",
+      "label": { "ar": "مشاهدات الحلقات الكاملة (يوتيوب)", "en": "Full-Episode Views (YouTube)" },
+      "value": "24,765",
+      "measurementPeriod": "As of 21 Nov 2026",
+      "source": "Public YouTube watch pages (8 published episodes)",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "host-channel-views",
+      "label": { "ar": "إجمالي مشاهدات قناة يوتيوب", "en": "Total @MohamedElhagan Channel Views" },
+      "value": "595,543",
+      "measurementPeriod": "As of 21 Nov 2026",
+      "source": "https://www.youtube.com/@MohamedElhagan/about",
+      "status": "VERIFIED"
+    },
+    {
+      "id": "host-social-followers",
+      "label": { "ar": "متابعو منظومة مقدم البرنامج", "en": "Host Verified Social Ecosystem" },
+      "value": "2.05M+",
+      "measurementPeriod": "As of 21 Nov 2026",
+      "source": "Facebook (1.08M), Instagram (630K), TikTok (339.7K), YouTube (8.37K)",
+      "status": "VERIFIED"
+    }
+  ],
+  "platformDistribution": [
+    { "platform": "Facebook", "audience": "1,080,024 followers", "status": "VERIFIED" },
+    { "platform": "Instagram", "audience": "630,000 followers", "status": "VERIFIED" },
+    { "platform": "TikTok", "audience": "339,700 followers", "status": "VERIFIED" },
+    { "platform": "YouTube", "audience": "8,370 subscribers (595,543 views)", "status": "VERIFIED" }
+  ],
+  "demographics": {
+    "gender": { "status": "PENDING", "note": "Requires YouTube Studio / Meta Insights export from ProMedia", "data": [] },
+    "age": { "status": "PENDING", "note": "Requires YouTube Studio / Meta Insights export from ProMedia", "data": [] },
+    "geography": { "status": "PENDING", "note": "Requires YouTube Studio / Meta Insights export from ProMedia", "data": [] }
+  }
+}

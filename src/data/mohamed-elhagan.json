@@ -1,0 +1,148 @@
+{
+  "name": {
+    "ar": "محمد الهجان",
+    "en": "Mohamed Elhagan"
+  },
+  "fullName": {
+    "ar": "محمد محمود محمد الهجان",
+    "en": "Mohamed Mahmoud Mohamed Elhagan"
+  },
+  "birthInfo": {
+    "ar": "مواليد مدينة المحلة الكبرى، محافظة الغربية — ١٩٨٢",
+    "en": "Born in El-Mahalla El-Kubra, Gharbia Governorate — 1982",
+    "source": "https://www.cairo24.com/239509"
+  },
+  "role": {
+    "ar": "مقدم برنامج «التركايه» • الرئيس التنفيذي لمجموعة ProMedia • مخرج إبداعي واستشاري بناء العلامة الشخصية",
+    "en": "Host of TURKEYA • Founder & CEO of ProMedia Group • Creative Director & Personal Branding Consultant"
+  },
+  "headline": {
+    "ar": "مسيرة إعلامية وإنتاجية تمتد عبر مصر وأوروبا والعالم العربي",
+    "en": "A Multidisciplinary Media & Production Career Spanning Egypt, Europe, and the Arab World"
+  },
+  "portrait": "/assets/محمد الهجان .jpg",
+  "portraitDimensions": { "width": 447, "height": 447 },
+  "summary": {
+    "ar": "إعلامي ومنتج ومخرج إبداعي مصري، ومؤسس ورئيس تنفيذي لمجموعة ProMedia للإنتاج الإعلامي منذ عام ٢٠١٦. يجمع بين التكوين الأكاديمي في علم المصريات بجامعة السوربون والدراسة المتخصصة في الإذاعة والتلفزيون والسينما في القاهرة وفرنسا، مع خبرة عملية تتجاوز العقدين في تأسيس القنوات، وإنتاج البرامج التلفزيونية والرقمية، وتقديم الاستشارات في التسويق وبناء العلامة الشخصية.",
+    "en": "Egyptian media producer, TV host, creative director, and Founder & CEO of ProMedia Group (established 2016). Combining academic foundations in Egyptology (Sorbonne University) with specialized broadcast and cinema training in Cairo and Paris (CLCF), Mohamed Elhagan has led the creation of television networks, flagship broadcast programs, and digital media ecosystems across Egypt, Europe, and the Arab world."
+  },
+  "education": [
+    {
+      "year": "2003",
+      "degree": {
+        "ar": "ليسانس علم المصريات — كلية الآثار، الجامعة الفرنسية في مصر",
+        "en": "B.A. in Egyptology — Faculty of Archaeology, French University in Egypt"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "year": "2004–2007",
+      "degree": {
+        "ar": "دبلومة الدراسات العليا والماجستير في علم المصريات — جامعة السوربون، فرنسا",
+        "en": "Postgraduate Diploma & Master's Studies in Egyptology — Sorbonne University, France"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "year": "2008–2010",
+      "degree": {
+        "ar": "دبلومة الإذاعة والتلفزيون — كلية الإعلام، جامعة القاهرة",
+        "en": "Postgraduate Diploma in Radio & Television — Faculty of Mass Communication, Cairo University"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "year": "2013",
+      "degree": {
+        "ar": "خريج المعهد الحر للسينما الفرنسية (CLCF) — باريس، فرنسا",
+        "en": "Graduate of Conservatoire Libre du Cinéma Français (CLCF) — Paris, France"
+      },
+      "source": "https://www.cairo24.com/239509"
+    }
+  ],
+  "careerTimeline": [
+    {
+      "period": "2007–2010",
+      "title": {
+        "ar": "مدير العلاقات العامة ومدير الإدارة الفنية ومقدم برامج — قناة الخليجية",
+        "en": "PR Director, Technical Operations Manager & TV Presenter — Al-Khaleejia TV"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "period": "2010",
+      "title": {
+        "ar": "مؤسس راديو «شباب لايف» متعدد اللغات (الإنجليزية والفرنسية والألمانية والإسبانية) ومدير فرع Added-Values بالقاهرة",
+        "en": "Founder of Radio Shabab Live (multilingual internet radio in EN/FR/DE/ES) & Executive Producer / Cairo Branch Manager at Added-Values"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "period": "2012",
+      "title": {
+        "ar": "مقدم برامج تلفزيونية — قناة الناس",
+        "en": "Television Presenter — Al-Nas TV"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "period": "2013",
+      "title": {
+        "ar": "شريك مؤسس ومنتج فني — قناة قرطبة الإسبانية",
+        "en": "Co-Founder & Executive Producer — Cordoba TV (Spain)"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "period": "2014–2015",
+      "title": {
+        "ar": "مؤسس قناة La Vie TV الفرنسية • منتج فني بقناة الندى الإماراتية • شريك مؤسس بشركة Image Media",
+        "en": "Founder of La Vie TV (France) • Executive Producer at Al-Nada TV (UAE) • Co-Founder of Image Media"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "period": "2016–Present",
+      "title": {
+        "ar": "المؤسس والرئيس التنفيذي لمجموعة ProMedia للإنتاج الإعلامي والإبداعي",
+        "en": "Founder & CEO of ProMedia Group (Media Production & Creative Direction)"
+      },
+      "source": "https://www.cairo24.com/239509"
+    },
+    {
+      "period": "2026",
+      "title": {
+        "ar": "محاضر ورشة «الإنتاج الإبداعي متعدد الوسائط» — كلية الإعلام، الجامعة الحديثة للتكنولوجيا والمعلومات (MTI)",
+        "en": "Guest Lecturer, 'Creative Multimedia Production' Workshop — Faculty of Mass Communication, MTI University (Oct 12, 2026)"
+      },
+      "source": "https://ar.mti.edu.eg/635139"
+    }
+  ],
+  "selectedProductions": [
+    { "title": { "ar": "برنامج التركايه (الموسم الأول)", "en": "TURKEYA (Season One)" }, "network": { "ar": "إنتاج ProMedia الأصلي", "en": "ProMedia Original" } },
+    { "title": { "ar": "أصول اللعبة", "en": "Osol El-Le'ba" }, "network": { "ar": "قناة النهار", "en": "Al-Nahar TV" } },
+    { "title": { "ar": "جريمة أكل", "en": "Gareemat Akl" }, "network": { "ar": "قناة النهار", "en": "Al-Nahar TV" } },
+    { "title": { "ar": "في صحبة يوسف", "en": "Fi Sohbat Youssef" }, "network": { "ar": "قناة روتانا", "en": "Rotana TV" } },
+    { "title": { "ar": "لأجل هذا نحبه", "en": "Li'ajl Hatha Nohibboh" }, "network": { "ar": "قناة اقرأ", "en": "Iqraa TV" } },
+    { "title": { "ar": "الرحلة (مصر • الكويت • فرنسا)", "en": "Al-Rehla (Egypt • Kuwait • France)" }, "network": { "ar": "قناة الندى", "en": "Al-Nada TV" } },
+    { "title": { "ar": "السلام عليكم", "en": "Al-Salam Alaykum" }, "network": { "ar": "قناة الندى", "en": "Al-Nada TV" } },
+    { "title": { "ar": "كلام شباب", "en": "Kalam Shabab" }, "network": { "ar": "قناة الخليجية", "en": "Al-Khaleejia TV" } },
+    { "title": { "ar": "عيش شباب", "en": "Eish Shabab" }, "network": { "ar": "قناة الناس", "en": "Al-Nas TV" } },
+    { "title": { "ar": "الديوان الأول (هشام الجخ)", "en": "Al-Diwan Al-Awal (Hisham El-Gakh)" }, "network": { "ar": "إنتاج إبداعي", "en": "Creative Production" } },
+    { "title": { "ar": "كليب «كلمة من عندك» (مي كساب)", "en": "'Kelma Men Andak' Music Video (Mai Kassab)" }, "network": { "ar": "إنتاج موسيقي", "en": "Music Video Production" } }
+  ],
+  "trainingAndSpeaking": {
+    "ar": "محاضر ومشارك في تنظيم وإنتاج المؤتمرات الإعلامية الدولية في مصر وفرنسا وألمانيا والمملكة العربية السعودية، ومقدم ورش عمل متخصصة في الإنتاج الإبداعي متعدد الوسائط وبناء العلامة الشخصية بالجامعات المصرية.",
+    "en": "International media lecturer and conference producer across Egypt, France, Germany, and Saudi Arabia, and workshop instructor in creative multimedia production and personal branding at Egyptian universities.",
+    "sources": [
+      "https://www.cairo24.com/239509",
+      "https://ar.mti.edu.eg/635139"
+    ]
+  },
+  "sources": [
+    { "label": "Cairo24 Interview (2019)", "url": "https://www.cairo24.com/239509" },
+    { "label": "MTI University News (Oct 2026)", "url": "https://ar.mti.edu.eg/635139" },
+    { "label": "LinkedIn Profile", "url": "https://eg.linkedin.com/in/mohamed-elhagan-728a89346" },
+    { "label": "ProMedia Microsite", "url": "https://pro-media-microsite.vercel.app/" }
+  ]
+}

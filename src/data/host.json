@@ -1,0 +1,18 @@
+{
+  "name": { "ar": "محمد الهجان", "en": "Mohamed Elhagan" },
+  "role": {
+    "ar": "مقدم برنامج التركايه • القيادة التنفيذية في ProMedia",
+    "en": "Host of TURKEYA • Executive Role at ProMedia"
+  },
+  "portrait": "/assets/محمد الهجان .jpg",
+  "portraitDimensions": { "width": 447, "height": 447 },
+  "portraitQualityNote": "Low-resolution source asset (447x447); keep framed inside editorial portrait card rather than full-bleed hero.",
+  "biography": {
+    "ar": "",
+    "en": "",
+    "status": "PENDING"
+  },
+  "careerHighlights": [],
+  "selectedProductions": [],
+  "socialLinks": []
+}

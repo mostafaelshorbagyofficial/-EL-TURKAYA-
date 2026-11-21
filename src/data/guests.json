@@ -1,0 +1,346 @@
+{
+  "season": 1,
+  "guests": [
+    {
+      "id": "mostafa-gamal",
+      "order": 1,
+      "name": { "ar": "مصطفى جمال", "en": "Mostafa Gamal" },
+      "title": {
+        "ar": "مدرب مهني ومصرفي • صانع محتوى في تطوير المسار الوظيفي",
+        "en": "Career Coach & Banking Trainer • Career Development Content Creator"
+      },
+      "portrait": "/assets/مصطفي جمال .jpeg",
+      "portraitDimensions": { "width": 1067, "height": 1600 },
+      "objectPosition": "center 20%",
+      "biography": {
+        "ar": "مدرب مهني وصانع محتوى مصري متخصص في تأهيل الطلاب وحديثي التخرج لسوق العمل، مع تركيز عملي على القطاع المصرفي، الائتمان وتحليل المخاطر، والاعتمادات المستندية. يقدم عبر منصته التعليمية وبرامجه التدريبية مسارات تطبيقية لاجتياز المقابلات الشخصية وبناء مسار مهني ناجح.",
+        "en": "Egyptian career coach and banking sector trainer specializing in preparing university students and fresh graduates for the job market. Through his educational platform and public speaking sessions, he delivers practical tracks in certified banking, credit and risk analysis, letters of credit, and career navigation."
+      },
+      "achievements": [
+        {
+          "ar": "مؤسس منصة mostafagamal.com لتأهيل الكوادر الشابة للقطاع المصرفي وسوق العمل",
+          "en": "Founder of mostafagamal.com for banking and career readiness training"
+        },
+        {
+          "ar": "مقدم برامج تدريبية متخصصة في «المصرفي المعتمد»، تحليل الائتمان، والاعتمادات المستندية",
+          "en": "Creator of Certified Banker, Credit Analysis, and Letters of Credit training tracks"
+        },
+        {
+          "ar": "متحدث في الفعاليات الجامعية والمهنية حول مسارات النجاح الوظيفي في مصر",
+          "en": "Public speaker at Egyptian university and career development summits"
+        }
+      ],
+      "episodeId": "s1-e01",
+      "socialLinks": [
+        { "platform": "Website", "label": "mostafagamal.com", "url": "https://mostafagamal.com", "status": "VERIFIED" }
+      ],
+      "sources": ["https://mostafagamal.com"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED"
+    },
+    {
+      "id": "dr-luna-el-hanafy",
+      "order": 2,
+      "name": { "ar": "د. لونا الحفني", "en": "Dr. Luna El Hefny" },
+      "alternateSpelling": "Dr. Luna El Hanafy",
+      "title": {
+        "ar": "صيدلانية ومستشار طبي • مؤسسة علامة MiniMe للعناية بالبشرة",
+        "en": "Pharmacist, Medical Consultant & Founder of MiniMe Skincare"
+      },
+      "portrait": "/assets/لونا  الحفني .jpeg",
+      "portraitDimensions": { "width": 1280, "height": 1600 },
+      "objectPosition": "center 20%",
+      "biography": {
+        "ar": "صيدلانية وخبيرة تجميل وعناية بالبشرة مصرية، عملت أكاديمياً بالجامعة الألمانية بالقاهرة (GUC) ومستشارة طبية لعدد من الشركات الدوائية والتجميلية في السوق المصري. أسست العلامة التجارية «ميني مي» (MiniMe) لمنتجات العناية الطبيعية بالبشرة والشعر، وتُعد من الوجوه الطبية البارزة في البرامج التلفزيونية المصرية.",
+        "en": "Egyptian pharmacist, skincare specialist, and healthcare entrepreneur who previously taught at the German University in Cairo (GUC) and advised pharmaceutical and dermocosmetic companies in Egypt. She founded the natural skincare and haircare brand MiniMe and appears regularly across major Egyptian TV networks."
+      },
+      "achievements": [
+        {
+          "ar": "مؤسسة العلامة التجارية «MiniMe» لمنتجات العناية الطبيعية بالبشرة والشعر في الصيدليات المصرية",
+          "en": "Founder of MiniMe, a natural skincare and haircare brand distributed across Egyptian pharmacies"
+        },
+        {
+          "ar": "خبرة أكاديمية بالجامعة الألمانية بالقاهرة (GUC) واستشارات طبية لعدد من الشركات الدوائية",
+          "en": "Former academic instructor at the German University in Cairo (GUC) and pharmaceutical medical advisor"
+        },
+        {
+          "ar": "ظهور إعلامي متكرر كخبيرة توعية صحية وتجميلية على قنوات النهار وصدى البلد وTeN",
+          "en": "Featured medical guest on Al-Nahar, Sada El-Balad, and TeN TV networks"
+        }
+      ],
+      "episodeId": "s1-e02",
+      "socialLinks": [
+        { "platform": "Website", "label": "minimeeg.com", "url": "https://minimeeg.com", "status": "VERIFIED" }
+      ],
+      "sources": ["https://minimeeg.com"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED"
+    },
+    {
+      "id": "karim-el-shazly",
+      "order": 3,
+      "name": { "ar": "كريم الشاذلي", "en": "Karim El Shazly" },
+      "title": {
+        "ar": "كاتب ومحاضر عربي بارز في تطوير الذات والعلاقات الأسرية",
+        "en": "Bestselling Arab Author & Lecturer in Personal Development & Relationships"
+      },
+      "portrait": "/assets/كريم الشازلي .jpeg",
+      "portraitDimensions": { "width": 1600, "height": 1600 },
+      "objectPosition": "center 20%",
+      "biography": {
+        "ar": "كاتب ومحاضر مصري وعربي بارز في مجالات التنمية البشرية، وبناء الوعي، والعلاقات الأسرية والزوجية. صدرت له سلسلة من الكتب الأكثر مبيعاً في العالم العربي، ويقدم محتوى توعوياً ومحاضرات وبودكاست يتابعه جمهور واسع عبر الوطن العربي.",
+        "en": "Prominent Egyptian and Arab author and public speaker specializing in personal growth, human development, and family dynamics. Author of multiple bestselling Arabic books and host of widely followed educational videos, weekly discussions, and podcasts."
+      },
+      "achievements": [
+        {
+          "ar": "مؤلف كتب من الأكثر مبيعاً في العالم العربي منها «أفكار صغيرة لحياة كبيرة»، «اشترِ دماغك»، و«لم يخبرونا بهذا قبل أن نتزوج»",
+          "en": "Author of bestselling Arabic titles including 'Small Ideas for a Big Life', 'Buy Your Peace of Mind', and 'What They Never Told Us Before Marriage'"
+        },
+        {
+          "ar": "محاضر ومتحدث في المؤتمرات الثقافية والجامعات في مصر والعالم العربي",
+          "en": "Keynote speaker across cultural forums and universities throughout the Arab world"
+        },
+        {
+          "ar": "مقدم محتوى توعوي وبودكاست عبر قناته الرسمية على يوتيوب ومنصات التواصل الاجتماعي",
+          "en": "Host of educational talks and podcasts on his official YouTube channel"
+        }
+      ],
+      "episodeId": "s1-e04",
+      "socialLinks": [
+        { "platform": "YouTube", "label": "@Karim_Alshazley", "url": "https://www.youtube.com/@Karim_Alshazley", "status": "VERIFIED" },
+        { "platform": "Instagram", "label": "@karim_alshazley", "url": "https://www.instagram.com/karim_alshazley/", "status": "VERIFIED" },
+        { "platform": "Facebook", "label": "karem.alshazley", "url": "https://www.facebook.com/karem.alshazley", "status": "VERIFIED" },
+        { "platform": "TikTok", "label": "@karimalshazley", "url": "https://www.tiktok.com/@karimalshazley", "status": "VERIFIED" }
+      ],
+      "sources": ["https://www.youtube.com/@Karim_Alshazley"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED"
+    },
+    {
+      "id": "dr-osama-taha",
+      "order": 4,
+      "name": { "ar": "أ.د. أسامة طه", "en": "Prof. Dr. Osama Taha" },
+      "title": {
+        "ar": "أستاذ الجراحة بجامعة أسيوط • استشاري جراحات السمنة وتنسيق القوام",
+        "en": "Professor of Surgery, Assiut University • Consultant in Bariatric Surgery & Body Contouring"
+      },
+      "portrait": "/assets/د-اسامه طة.jpeg",
+      "portraitDimensions": { "width": 1600, "height": 1600 },
+      "objectPosition": "center 18%",
+      "biography": {
+        "ar": "أستاذ الجراحة بجامعة أسيوط وأحد أبرز استشاريي جراحات السمنة المفرطة والتمثيل الغذائي وتنسيق القوام في مصر والشرق الأوسط. يجمع بين المسيرة الأكاديمية والخبرة الجراحية المتقدمة في مراكزه الطبية المتخصصة.",
+        "en": "Professor of Surgery at Assiut University and one of the leading bariatric, metabolic, and body-contouring surgery consultants in Egypt and the Middle East. Combines academic leadership with advanced clinical practice across his specialized medical centers."
+      },
+      "achievements": [
+        {
+          "ar": "أستاذ الجراحة بكلية الطب — جامعة أسيوط",
+          "en": "Professor of Surgery at Assiut University Faculty of Medicine"
+        },
+        {
+          "ar": "مؤسس مراكز أ.د. أسامة طه لجراحات السمنة وتنسيق القوام في مصر",
+          "en": "Founder of Prof. Dr. Osama Taha Centers for Bariatric Surgery & Body Contouring"
+        },
+        {
+          "ar": "مرجع طبي متخصص في جراحات التمثيل الغذائي وإعادة تنسيق القوام بعد فقدان الوزن",
+          "en": "Recognized specialist in metabolic surgery and post-weight-loss body contouring"
+        }
+      ],
+      "episodeId": "s1-e04",
+      "socialLinks": [
+        { "platform": "Website", "label": "osama-taha.com", "url": "https://www.osama-taha.com", "status": "VERIFIED" }
+      ],
+      "sources": ["https://www.osama-taha.com"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED"
+    },
+    {
+      "id": "amr-ezz",
+      "order": 5,
+      "name": { "ar": "عمرو عز الدين (عمرو عز)", "en": "Amr Ezz (Amr Ezz Eldin)" },
+      "title": {
+        "ar": "كوتش نفسي وأسري معتمد • كاتب ومقدم «بودكاست حياة»",
+        "en": "Certified Psychological & Family Coach • Author & Host of Hayah Podcast"
+      },
+      "portrait": "/assets/عمرو عزالدين.jpeg",
+      "portraitDimensions": { "width": 1600, "height": 1116 },
+      "objectPosition": "center 22%",
+      "biography": {
+        "ar": "كوتش معتمد ومستشار نفسي وأسري وصانع محتوى مصري متخصص في الوعي والعلاقات والنمو الإنساني. يمتلك رصيداً يضم آلاف ساعات الاستشارات الفردية، وشارك كمتحدث في مؤتمرات TEDx والمؤتمر الدولي للكوتشينج (ICC)، كما قدم أكثر من ١٧٠ لقاءً تلفزيونياً وإذاعياً.",
+        "en": "Certified psychological and family coach, relationships consultant, TEDx speaker, and host of the Hayah Podcast. With thousands of individual coaching hours and over 170 television and radio appearances, he produces books and digital media dedicated to mental clarity and healthy relationships."
+      },
+      "achievements": [
+        {
+          "ar": "مؤلف كتب «الرحلة»، «وصف مثالي لعلاقات صحية»، و«إدارة الضغوط» الصادرة عن دار عصير الكتب",
+          "en": "Author of 'The Journey', 'Blueprint for Healthy Relationships', and 'Stress Management'"
+        },
+        {
+          "ar": "مؤسس ومقدم «بودكاست حياة» و«بودكاست ملتقى العلاقات»",
+          "en": "Creator and host of Hayah Podcast and Relationships Forum Podcast"
+        },
+        {
+          "ar": "متحدث في مؤتمرات TEDx والمؤتمر الدولي للكوتشينج (ICC) مع أكثر من ١٧٠ ظهوراً إعلامياً",
+          "en": "TEDx & ICC speaker with over 170 TV and radio appearances"
+        }
+      ],
+      "episodeId": "s1-e06",
+      "socialLinks": [
+        { "platform": "Website", "label": "umrezz.com", "url": "https://umrezz.com", "status": "VERIFIED" },
+        { "platform": "Facebook", "label": "umrezz78", "url": "https://www.facebook.com/umrezz78", "status": "VERIFIED" },
+        { "platform": "X", "label": "@umrezz", "url": "https://twitter.com/umrezz", "status": "VERIFIED" },
+        { "platform": "TikTok", "label": "@umrezz", "url": "https://www.tiktok.com/@umrezz", "status": "VERIFIED" }
+      ],
+      "sources": ["https://umrezz.com"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED"
+    },
+    {
+      "id": "nesma-khader",
+      "order": 6,
+      "name": { "ar": "نسمة خضر", "en": "Nesma Khader" },
+      "title": {
+        "ar": "مدربة حياة (Life Coach) وصانعة محتوى • شريك مؤسس لتطبيق «مقايضة»",
+        "en": "Life Coach, Content Creator & Co-Founder of Maqyada"
+      },
+      "portrait": "/assets/نِسْمَة خِضْر.jpeg",
+      "portraitDimensions": { "width": 1200, "height": 1600 },
+      "objectPosition": "center 18%",
+      "biography": {
+        "ar": "خريجة كلية الإعلام وصانعة محتوى ومدربة حياة (Life Coach) مصرية متخصصة في التعافي النفسي وتخطي الأزمات ودعم المرأة. شاركت في تأسيس مشروع وتطبيق «مقايضة» (Maqyada) للتبادل المجتمعي المستدام، وظهرت كضيفة في برامج تلفزيونية بارزة على قنوات dmc وON وصدى البلد وETC.",
+        "en": "Mass Communication graduate, Egyptian content creator, and Life Coach specializing in emotional recovery, resilience, and personal growth. Co-founder of the community-exchange initiative Maqyada, and a featured guest on leading Egyptian television shows across dmc, ON, Sada El-Balad, and ETC."
+      },
+      "achievements": [
+        {
+          "ar": "شريك مؤسس لمشروع وتطبيق «مقايضة» (Maqyada) للتبادل المجتمعي وترشيد الاستهلاك",
+          "en": "Co-founder of Maqyada, a community barter and sustainable consumption platform"
+        },
+        {
+          "ar": "مدربة حياة متخصصة في التعافي النفسي وإعادة بناء التوازن الشخصي بعد الأزمات",
+          "en": "Life Coach focusing on emotional recovery and personal resilience"
+        },
+        {
+          "ar": "ظهور تلفزيوني متكرر عبر قنوات dmc وON وصدى البلد وETC",
+          "en": "Featured media guest on dmc, ON, Sada El-Balad, and ETC networks"
+        }
+      ],
+      "episodeId": "s1-e06",
+      "socialLinks": [],
+      "sources": ["Cairo24 & Egyptian TV appearances (dmc, ON, Sada El-Balad)"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED"
+    },
+    {
+      "id": "ehab-muslim",
+      "order": 7,
+      "name": { "ar": "د. إيهاب مسلم", "en": "Dr. Ehab Mesallum" },
+      "title": {
+        "ar": "استشاري التسويق والإدارة وتطوير الأعمال • مؤسس «دبلومة التسويق ٣ في ١»",
+        "en": "Marketing & Management Consultant • Creator of the 3-in-1 Marketing Diploma"
+      },
+      "portrait": "/assets/ايهاب مسلم.jpg",
+      "portraitDimensions": { "width": 492, "height": 623 },
+      "objectPosition": "center 15%",
+      "biography": {
+        "ar": "استشاري تسويق وإدارة وتطوير أعمال ورجل أعمال مصري، بدأ مسيرته كطبيب قبل أن ينتقل إلى عالم الإدارة والأعمال ويحصل على ماجستير إدارة الأعمال (MBA)، بخبرة عملية تتجاوز ٤٠ عاماً في بناء وتطوير الشركات. يُعد من أبرز رواد التعليم الإداري والتسويقي العربي عبر الإنترنت.",
+        "en": "Renowned Egyptian marketing and management consultant and business leader. A physician-turned-executive holding an MBA with over 40 years of corporate and entrepreneurial experience, Dr. Ehab Mesallum is one of the Arab world's foremost educators in marketing, sales, and business administration."
+      },
+      "achievements": [
+        {
+          "ar": "مبتكر ومقدم «دبلومة التسويق ٣ في ١» (التسويق والإدارة والمبيعات) — أحد أشهر البرامج التدريبية العربية",
+          "en": "Creator of the flagship '3-in-1 Marketing, Management & Sales Diploma'"
+        },
+        {
+          "ar": "مؤسس مجتمع «عيادة الشركات» وقناة يوتيوب تعليمية مرجعية في الإدارة والتسويق",
+          "en": "Founder of the 'Companies Clinic' business community and leading Arabic business YouTube channel"
+        },
+        {
+          "ar": "خبرة تمتد لأكثر من ٤٠ عاماً في استشارات تطوير الأعمال وإدارة الشركات",
+          "en": "Over 40 years of executive consulting and corporate growth leadership"
+        }
+      ],
+      "episodeId": "s1-e07",
+      "socialLinks": [
+        { "platform": "Website", "label": "ehabmesallum.com", "url": "https://www.ehabmesallum.com/", "status": "VERIFIED" },
+        { "platform": "YouTube", "label": "@ehabmes", "url": "https://www.youtube.com/@ehabmes", "status": "VERIFIED" },
+        { "platform": "Facebook", "label": "dr.ehabmes", "url": "https://www.facebook.com/dr.ehabmes", "status": "VERIFIED" }
+      ],
+      "sources": ["https://www.ehabmesallum.com/", "https://www.youtube.com/@ehabmes"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED_MODERATE_RES"
+    },
+    {
+      "id": "el-zozat",
+      "order": 8,
+      "name": { "ar": "الزوزات", "en": "El-Zozat" },
+      "title": {
+        "ar": "ثنائي صناعة المحتوى والترفيه الرقمي • ضيوف الموسم الأول",
+        "en": "Digital Content Creators Duo • Season One Guests"
+      },
+      "portrait": "/assets/الزوزات.jpeg",
+      "portraitDimensions": { "width": 303, "height": 403 },
+      "objectPosition": "center 18%",
+      "biography": {
+        "ar": "ثنائي مصري لصناعة المحتوى الرقمي والترفيهي، حلا ضيفين على برنامج «التركاية» في حلقة خاصة كشفا خلالها كواليس بداياتهما وأسرار تجربتهما في صناعة المحتوى.",
+        "en": "Egyptian digital content creator duo featured in a dedicated Season One episode of TURKEYA sharing behind-the-scenes stories from their creative journey."
+      },
+      "achievements": [
+        {
+          "ar": "أصحاب حلقة «التركاية مع الزوزات» على قناة محمد الهجان الرسمية (٢٬٢٨٩ مشاهدة على يوتيوب)",
+          "en": "Featured guests on TURKEYA Episode 01 (2,289 verified public YouTube views)"
+        }
+      ],
+      "episodeId": "s1-e01",
+      "socialLinks": [],
+      "sources": ["https://www.youtube.com/watch?v=ZSIZsLvCaC0"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED_LOW_RES"
+    },
+    {
+      "id": "dr-ahmed-el-shafie",
+      "order": 8,
+      "name": { "ar": "د. أحمد الشافعي", "en": "Dr. Ahmed El Shafie" },
+      "title": {
+        "ar": "ضيف الموسم الأول — جاري استكمال البيانات والصورة الرسمية",
+        "en": "Season One Guest — Biography & Portrait Pending Verification"
+      },
+      "portrait": null,
+      "portraitDimensions": null,
+      "objectPosition": "center center",
+      "biography": { "ar": "", "en": "" },
+      "achievements": [],
+      "episodeId": "s1-e08",
+      "socialLinks": [],
+      "sources": [],
+      "verificationStatus": "PENDING",
+      "portraitStatus": "MISSING"
+    },
+    {
+      "id": "saudi-guest-pending",
+      "order": 9,
+      "name": { "ar": "ضيف من المملكة العربية السعودية", "en": "Guest from Saudi Arabia" },
+      "title": {
+        "ar": "حلقة مصوّرة — جاري تأكيد الاسم والملف التعريفي",
+        "en": "Filmed Episode — Name & Profile Pending Confirmation"
+      },
+      "portrait": null,
+      "portraitDimensions": null,
+      "objectPosition": "center center",
+      "biography": { "ar": "", "en": "" },
+      "achievements": [],
+      "episodeId": "s1-e09",
+      "socialLinks": [],
+      "sources": [],
+      "verificationStatus": "PENDING",
+      "portraitStatus": "MISSING"
+    }
+  ],
+  "unconfirmedLocalAssets": [
+    {
+      "id": "el-zozat",
+      "filename": "الزوزات.jpeg",
+      "portrait": "/assets/الزوزات.jpeg",
+      "portraitDimensions": { "width": 303, "height": 403 },
+      "status": "UNCERTAIN",
+      "note": "Present in D:\\mhare3\\pro\\التركايه but not confirmed on the initial 9-guest brief. Excluded from public guest cards until confirmed."
+    }
+  ]
+}

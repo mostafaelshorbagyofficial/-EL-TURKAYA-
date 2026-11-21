@@ -1,0 +1,188 @@
+@import "tailwindcss";
+
+:root {
+  /* Brand Tokens (Extracted from Official TURKEYA & ProMedia Logos) */
+  --brand-blue: #2f3b8e;
+  --brand-blue-deep: #222c6e;
+  --brand-blue-soft: #4352b8;
+  --brand-orange: #fe7c01;
+  --brand-orange-hover: #e56d00;
+  --brand-orange-text-on-light: #b85400;
+  --brand-sand: #f0c188;
+  --brand-sand-soft: #f7dfc0;
+
+  /* ProMedia Identity Tokens (Logo ALWAYS on --surface-white) */
+  --promedia-slate: #434b5d;
+  --promedia-crimson: #e54e58;
+
+  /* Surface Tokens */
+  --surface-obsidian: #090c16;
+  --surface-elevated: #111629;
+  --surface-elevated-2: #181f38;
+  --surface-paper: #faf7f2;
+  --surface-paper-muted: #f2ece2;
+  --surface-white: #ffffff;
+
+  /* Text Tokens (WCAG 2.2 AA+ Verified) */
+  --text-on-dark: #f8fafc;
+  --text-on-dark-muted: #b8c2d8;
+  --text-on-dark-subtle: #8b97b5;
+  --text-on-light: #090c16;
+  --text-on-light-muted: #3b4459;
+  --text-on-light-subtle: #5a647a;
+
+  /* Borders & Hairlines */
+  --border-dark: rgba(240, 193, 136, 0.14);
+  --border-dark-strong: rgba(240, 193, 136, 0.28);
+  --border-light: rgba(9, 12, 22, 0.1);
+  --border-light-strong: rgba(47, 59, 142, 0.24);
+
+  /* Radii & Spacing */
+  --radius-sm: 0.5rem;
+  --radius-md: 0.875rem;
+  --radius-lg: 1.25rem;
+  --radius-xl: 1.75rem;
+
+  /* Motion */
+  --ease-editorial: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Safe Area Insets (iOS Notch & Dynamic Island) */
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+}
+
+@theme inline {
+  --color-brand-blue: var(--brand-blue);
+  --color-brand-blue-deep: var(--brand-blue-deep);
+  --color-brand-orange: var(--brand-orange);
+  --color-brand-sand: var(--brand-sand);
+  --color-obsidian: var(--surface-obsidian);
+  --color-elevated: var(--surface-elevated);
+  --color-paper: var(--surface-paper);
+  --color-pure-white: var(--surface-white);
+  --color-promedia-slate: var(--promedia-slate);
+  --color-promedia-crimson: var(--promedia-crimson);
+
+  --font-arabic: var(--font-cairo), "Cairo", system-ui, -apple-system, sans-serif;
+  --font-latin: var(--font-jakarta), "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: clip;
+  background-color: var(--surface-obsidian);
+  color: var(--text-on-dark);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  min-height: 100dvh;
+  overflow-x: clip;
+  background-color: var(--surface-obsidian);
+  color: var(--text-on-dark);
+  font-family: var(--font-arabic);
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html[lang="en"] body {
+  font-family: var(--font-latin);
+  line-height: 1.6;
+}
+
+/* Tabular Numerals for Analytics & Episode Indexing */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Accessible Focus Rings */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 2px solid var(--brand-orange);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Skip Link for Keyboard & Screen Reader Users */
+.skip-to-content {
+  position: fixed;
+  top: -100%;
+  inset-inline-start: 1rem;
+  z-index: 100;
+  background: var(--brand-orange);
+  color: var(--surface-obsidian);
+  font-weight: 700;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-sm);
+  transition: top 0.2s var(--ease-editorial);
+}
+
+.skip-to-content:focus {
+  top: calc(1rem + var(--safe-top));
+}
+
+/* Mandatory Pure White Isolation Container for ProMedia Logo */
+.promedia-logo-plate {
+  background-color: #ffffff;
+  color: var(--surface-obsidian);
+  border-radius: var(--radius-md);
+  box-shadow: 0 1px 2px rgba(9, 12, 22, 0.08);
+}
+
+/* Editorial Container */
+.editorial-container {
+  width: 100%;
+  max-width: 82rem;
+  margin-inline: auto;
+  padding-inline: max(1rem, var(--safe-left));
+}
+
+@media (min-width: 640px) {
+  .editorial-container {
+    padding-inline: max(1.5rem, var(--safe-left));
+  }
+}
+
+@media (min-width: 1024px) {
+  .editorial-container {
+    padding-inline: 2.5rem;
+  }
+}
+
+/* GPU-only above-the-fold entrance (never hides SSR content at opacity: 0) */
+@keyframes editorialFadeIn {
+  from {
+    opacity: 0.01;
+    transform: translate3d(0, 12px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.editorial-fade-in {
+  animation: editorialFadeIn 0.55s var(--ease-editorial) both;
+}
+
+/* Respect Reduced Motion Preferences */
+@media (prefers-reduced-motion: reduce) {
+  .editorial-fade-in {
+    animation: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

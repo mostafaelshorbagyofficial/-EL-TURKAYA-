@@ -1,0 +1,53 @@
+{
+  "source": "https://pro-media-microsite.vercel.app/",
+  "platforms": [
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "handle": "@MohamedElhagan",
+      "url": "https://www.youtube.com/@mohamedelhagan",
+      "metric": { "ar": "٨.٣٧ ألف مشترك • ٧٤٢ فيديو", "en": "8.37K Subscribers • 742 Videos" },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "handle": "MohamedElhaganPromedia",
+      "url": "https://www.facebook.com/MohamedElhaganPromedia",
+      "metric": { "ar": "+١.٠٨ مليون متابع", "en": "1.08M+ Followers" },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "handle": "@m.ellhagan",
+      "url": "https://www.instagram.com/m.ellhagan",
+      "metric": { "ar": "٦٣٠ ألف متابع", "en": "630K Followers" },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "handle": "@elhaganofficial",
+      "url": "https://www.tiktok.com/@elhaganofficial",
+      "metric": { "ar": "٣٣٩.٧ ألف متابع • ١.٢ مليون إعجاب", "en": "339.7K Followers • 1.2M Likes" },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "x",
+      "name": "X (Twitter)",
+      "handle": "@mohamedelhagan2",
+      "url": "https://x.com/mohamedelhagan2",
+      "metric": { "ar": "الحساب الرسمي", "en": "Official Account" },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "handle": "mohamed-elhagan-728a89346",
+      "url": "https://eg.linkedin.com/in/mohamed-elhagan-728a89346",
+      "metric": { "ar": "الملف المهني الرسمي", "en": "Official Executive Profile" },
+      "status": "VERIFIED"
+    }
+  ]
+}

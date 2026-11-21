@@ -1,0 +1,281 @@
+{
+  "season": 1,
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLYVpECjdY_0TIPTYoj0QtWAieJKPvIwLJ",
+  "productionSummary": {
+    "filmedEpisodesEstimate": "10–11",
+    "publishedEpisodesConfirmed": 8,
+    "verifiedFullEpisodeYoutubeViews": 24765,
+    "measuredAt": "2026-11-21",
+    "status": "VERIFIED"
+  },
+  "episodes": [
+    {
+      "id": "s1-e08",
+      "slug": "dr-ehab-mesallum",
+      "episodeNumber": 8,
+      "guestId": "ehab-muslim",
+      "videoId": "SmJjY26QbmM",
+      "title": {
+        "ar": "تركاية جديدة مع رائد الأعمال وخبير التسويق والإدارة | دكتور إيهاب مسلم",
+        "en": "Dr. Ehab Mesallum — Entrepreneurship, Marketing & Management Mastery"
+      },
+      "description": {
+        "ar": "لقاء حواري خاص مع رائد الأعمال واستشاري التسويق والإدارة د. إيهاب مسلم حول صناعة الأعمال وبناء الشركات وتطوير المهارات الإدارية والتسويقية.",
+        "en": "A flagship conversation with entrepreneur and marketing consultant Dr. Ehab Mesallum on business growth, management systems, and commercial strategy."
+      },
+      "thumbnail": "/assets/ايهاب مسلم.jpg",
+      "youtubeThumbnail": "https://i.ytimg.com/vi/SmJjY26QbmM/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SmJjY26QbmM",
+      "channelName": "Mohamed Elhagan and Ehab Mesallum",
+      "platformLinks": [
+        { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=SmJjY26QbmM" }
+      ],
+      "publicationStatus": "PUBLISHED",
+      "viewCount": "1,181",
+      "viewCountNumeric": 1181,
+      "publishedAt": "2026-11-15",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "id": "s1-e07",
+      "slug": "nesma-khader",
+      "episodeNumber": 7,
+      "guestId": "nesma-khader",
+      "videoId": "ovGnS9MLJ1M",
+      "title": {
+        "ar": "تركاية جديدة مع نسمة خضر | لايف كوتش وصانعة محتوى",
+        "en": "Nesma Khader — Life Coaching, Resilience & Content Creation"
+      },
+      "description": {
+        "ar": "حوار إنساني وصادق مع مدربة الحياة وصانعة المحتوى نسمة خضر حول التعافي النفسي، تخطي التحديات، وبناء التوازن الشخصي.",
+        "en": "A candid conversation with Life Coach and content creator Nesma Khader on emotional resilience, personal recovery, and authentic storytelling."
+      },
+      "thumbnail": "/assets/نِسْمَة خِضْر.jpeg",
+      "youtubeThumbnail": "https://i.ytimg.com/vi/ovGnS9MLJ1M/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ovGnS9MLJ1M",
+      "channelName": "Mohamed Elhagan",
+      "platformLinks": [
+        { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=ovGnS9MLJ1M" }
+      ],
+      "publicationStatus": "PUBLISHED",
+      "viewCount": "214",
+      "viewCountNumeric": 214,
+      "publishedAt": "2026-10-11",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "id": "s1-e06",
+      "slug": "amr-ezz",
+      "episodeNumber": 6,
+      "guestId": "amr-ezz",
+      "videoId": "apvdGjCFQuk",
+      "alternateVideoId": "mJ63W_l2IJI",
+      "title": {
+        "ar": "إزاي حولت شغفك بالتدريب النفسي والجسدي لبراند يغير حياة ناس كثير؟ | د. عمرو عز",
+        "en": "Amr Ezz — Turning Psychological & Family Coaching Into a Transformative Brand"
+      },
+      "description": {
+        "ar": "في حلقة استثنائية من بودكاست التركاية، نستضيف كوتش عمرو عز، مدرب الأسرة والعلاقات، ليكشف رحلته الإنسانية والمهنية وكيف يوازن بين الجانب الجسدي والنفسي في بناء علاقات صحية.",
+        "en": "An in-depth conversation with family and relationships coach Amr Ezz on balancing emotional and physical well-being and building a trusted coaching brand."
+      },
+      "thumbnail": "/assets/عمرو عزالدين.jpeg",
+      "youtubeThumbnail": "https://i.ytimg.com/vi/apvdGjCFQuk/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=apvdGjCFQuk",
+      "channelName": "Umrezz Channel & Mohamed Elhagan",
+      "platformLinks": [
+        { "platform": "YouTube (Umrezz)", "url": "https://www.youtube.com/watch?v=apvdGjCFQuk" },
+        { "platform": "YouTube (Mohamed Elhagan)", "url": "https://www.youtube.com/watch?v=mJ63W_l2IJI" }
+      ],
+      "publicationStatus": "PUBLISHED",
+      "viewCount": "1,088",
+      "viewCountNumeric": 1088,
+      "publishedAt": "2026-09-08",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "id": "s1-e05",
+      "slug": "dr-osama-taha",
+      "episodeNumber": 5,
+      "guestId": "dr-osama-taha",
+      "videoId": "NlRH8ngvvaM",
+      "title": {
+        "ar": "الحلقة الأخيرة من الموسم الأول | رحلة د. أسامة طه من كلية الطب إلى أحد أبرز جراحي مصر",
+        "en": "Season One Finale — Prof. Dr. Osama Taha's Journey to Leading Bariatric Surgery in Egypt"
+      },
+      "description": {
+        "ar": "في ختام الموسم الأول من «التركاية»، نستضيف أ.د. أسامة طه في رحلة ملهمة من أول يوم في كلية الطب مروراً بالبعثات والغربة حتى أصبح أحد أبرز جراحي مصر، كاشفاً كواليس النجاح وأصعب المواقف داخل غرفة العمليات.",
+        "en": "In the Season One finale of TURKEYA, Prof. Dr. Osama Taha reflects on his journey from medical school and international fellowships to becoming one of Egypt's foremost surgeons."
+      },
+      "thumbnail": "/assets/د-اسامه طة.jpeg",
+      "youtubeThumbnail": "https://i.ytimg.com/vi/NlRH8ngvvaM/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NlRH8ngvvaM",
+      "channelName": "Mohamed Elhagan",
+      "platformLinks": [
+        { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=NlRH8ngvvaM" }
+      ],
+      "publicationStatus": "PUBLISHED",
+      "viewCount": "643",
+      "viewCountNumeric": 643,
+      "publishedAt": "2026-08-07",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "id": "s1-e04",
+      "slug": "karim-el-shazly",
+      "episodeNumber": 4,
+      "guestId": "karim-el-shazly",
+      "videoId": "OnO8dQq0Pkk",
+      "title": {
+        "ar": "كريم الشاذلي: كل أفكاري من الشارع، لا من الكتب.. والنساء يبحثن عن هوية، والجواز مشروع فاشل!!؟",
+        "en": "Karim El Shazly — Real-World Ideas, Identity & Modern Relationships"
+      },
+      "description": {
+        "ar": "حوار من القلب مع الكاتب والمحاضر كريم الشاذلي حول الكتابة، الوعي الاجتماعي، العلاقات الزوجية، وتجارب الحياة الواقعية التي تشكل أفكاره.",
+        "en": "A heartfelt conversation with bestselling author Karim El Shazly on writing from lived experience, social identity, and modern family dynamics."
+      },
+      "thumbnail": "/assets/كريم الشازلي .jpeg",
+      "youtubeThumbnail": "https://i.ytimg.com/vi/OnO8dQq0Pkk/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OnO8dQq0Pkk",
+      "channelName": "Karim Alshazley & Mohamed Elhagan",
+      "platformLinks": [
+        { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=OnO8dQq0Pkk" }
+      ],
+      "publicationStatus": "PUBLISHED",
+      "viewCount": "19,076",
+      "viewCountNumeric": 19076,
+      "publishedAt": "2026-07-15",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "id": "s1-e03",
+      "slug": "dr-luna-el-hefny",
+      "episodeNumber": 3,
+      "guestId": "dr-luna-el-hanafy",
+      "videoId": "JVwRI7RAQwA",
+      "title": {
+        "ar": "د. لونا الحفني | تركاية البيزنس والموازنة بين النجاح وحياتها الشخصية",
+        "en": "Dr. Luna El Hefny — Building MiniMe & Balancing Entrepreneurship with Life"
+      },
+      "description": {
+        "ar": "كيف تحول خلفيتك العلمية إلى براند تجاري ناجح ينافس في السوق؟ تستضيف الحلقة د. لونا الحفني، الصيدلانية ومؤسسة علامة MiniMe، في حوار حول ريادة الأعمال والموازنة بين النجاح المهني والحياة الشخصية.",
+        "en": "Pharmacist and MiniMe founder Dr. Luna El Hefny shares how she transformed scientific expertise into a trusted Egyptian skincare brand while navigating entrepreneurship and personal life."
+      },
+      "thumbnail": "/assets/لونا  الحفني .jpeg",
+      "youtubeThumbnail": "https://i.ytimg.com/vi/JVwRI7RAQwA/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JVwRI7RAQwA",
+      "channelName": "Mohamed Elhagan",
+      "platformLinks": [
+        { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=JVwRI7RAQwA" }
+      ],
+      "publicationStatus": "PUBLISHED",
+      "viewCount": "148",
+      "viewCountNumeric": 148,
+      "publishedAt": "2026-06-10",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "id": "s1-e02",
+      "slug": "mostafa-gamal",
+      "episodeNumber": 2,
+      "guestId": "mostafa-gamal",
+      "videoId": "Dzqo1vrs9D4",
+      "title": {
+        "ar": "مصطفى جمال | السوق مبيستناش حد، والخبرة الحقيقية هي اللي بتوفر عليك سنين معافرة",
+        "en": "Mostafa Gamal — Career Acceleration & Real-World Market Experience"
+      },
+      "description": {
+        "ar": "حوار عملي مع المدرب المهني مصطفى جمال حول متطلبات سوق العمل والقطاع المصرفي وكيف تختصر الخبرة الحقيقية سنوات من المحاولة والخطأ.",
+        "en": "A practical discussion with career coach Mostafa Gamal on navigating the Egyptian job market, banking careers, and accelerating professional growth."
+      },
+      "thumbnail": "/assets/مصطفي جمال .jpeg",
+      "youtubeThumbnail": "https://i.ytimg.com/vi/Dzqo1vrs9D4/maxresdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Dzqo1vrs9D4",
+      "channelName": "Mohamed Elhagan",
+      "platformLinks": [
+        { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=Dzqo1vrs9D4" }
+      ],
+      "publicationStatus": "PUBLISHED",
+      "viewCount": "126",
+      "viewCountNumeric": 126,
+      "publishedAt": "2026-04-08",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "id": "s1-e01",
+      "slug": "el-zozat",
+      "episodeNumber": 1,
+      "guestId": "el-zozat",
+      "videoId": "ZSIZsLvCaC0",
+      "title": {
+        "ar": "التركاية مع الزوزات وأسرار لأول مرة يقولوها",
+        "en": "El-Zozat — Untold Stories & Behind the Content Journey"
+      },
+      "description": {
+        "ar": "حلقة خاصة من برنامج «التركاية» مع ثنائي المحتوى الزوزات يكشفان فيها كواليس رحلتهما وأسراراً تُروى للمرة الأولى.",
+        "en": "A special TURKEYA episode featuring content duo El-Zozat sharing untold stories from their creative journey."
+      },
+      "thumbnail": "/assets/الزوزات.jpeg",
+      "youtubeThumbnail": "https://i.ytimg.com/vi/ZSIZsLvCaC0/hqdefault.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZSIZsLvCaC0",
+      "channelName": "Mohamed Elhagan",
+      "platformLinks": [
+        { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=ZSIZsLvCaC0" }
+      ],
+      "publicationStatus": "PUBLISHED",
+      "viewCount": "2,289",
+      "viewCountNumeric": 2289,
+      "publishedAt": "2025-12-28",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "id": "s1-e09",
+      "slug": "dr-ahmed-el-shafie",
+      "episodeNumber": 9,
+      "guestId": "dr-ahmed-el-shafie",
+      "videoId": null,
+      "title": {
+        "ar": "حلقة قادمة — د. أحمد الشافعي",
+        "en": "Upcoming Episode — Dr. Ahmed El Shafie"
+      },
+      "description": {
+        "ar": "حلقة مصوّرة ضمن الموسم الأول — يتم نشر رابط المشاهدة والتفاصيل فور إتاحتها رسمياً.",
+        "en": "Season One episode — official watch link and full details will be published upon release."
+      },
+      "thumbnail": null,
+      "youtubeThumbnail": null,
+      "youtubeUrl": null,
+      "channelName": "Mohamed Elhagan",
+      "platformLinks": [],
+      "publicationStatus": "UPCOMING",
+      "viewCount": null,
+      "viewCountNumeric": null,
+      "publishedAt": null,
+      "verificationStatus": "PENDING"
+    },
+    {
+      "id": "s1-e10",
+      "slug": "saudi-guest",
+      "episodeNumber": 10,
+      "guestId": "saudi-guest-pending",
+      "videoId": null,
+      "title": {
+        "ar": "حلقة قادمة — ضيف من المملكة العربية السعودية",
+        "en": "Upcoming Episode — Guest from Saudi Arabia"
+      },
+      "description": {
+        "ar": "حلقة مصوّرة ضمن الموسم الأول — جاري تأكيد بيانات الضيف وموعد النشر.",
+        "en": "Season One episode — guest identity and release schedule awaiting confirmation."
+      },
+      "thumbnail": null,
+      "youtubeThumbnail": null,
+      "youtubeUrl": null,
+      "channelName": "Mohamed Elhagan",
+      "platformLinks": [],
+      "publicationStatus": "UNPUBLISHED",
+      "viewCount": null,
+      "viewCountNumeric": null,
+      "publishedAt": null,
+      "verificationStatus": "PENDING"
+    }
+  ]
+}
