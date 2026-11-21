@@ -32,6 +32,10 @@ export const metadata: Metadata = {
     default: "التركايه | TURKEYA — إنتاج أصلي من ProMedia",
     template: "%s | التركايه — TURKEYA",
   },
+  icons: {
+    icon: "/icon.png",
+    apple: "/apple-icon.png",
+  },
   description:
     "التركايه (TURKEYA) — برنامج حواري مصري بمعايير إنتاجية سينمائية من إنتاج ProMedia وتقديم محمد الهجان. اكتشف الموسم الأول وفرص الرعاية والشراكات.",
   openGraph: {
