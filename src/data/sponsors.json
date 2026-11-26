@@ -34,15 +34,6 @@
       "source": "Official MG Motor corporate SVG",
       "status": "VERIFIED",
       "publicVisible": true
-    },
-    {
-      "id": "harley-davidson",
-      "name": { "ar": "هارلي ديفيدسون (Harley-Davidson)", "en": "Harley-Davidson" },
-      "category": { "ar": "الدراجات النارية", "en": "Motorcycles & Lifestyle" },
-      "logo": "/assets/sponsors/harley-davidson.svg",
-      "source": "Official Harley-Davidson Bar & Shield SVG",
-      "status": "VERIFIED",
-      "publicVisible": true
     }
   ],
   "pendingClarification": [

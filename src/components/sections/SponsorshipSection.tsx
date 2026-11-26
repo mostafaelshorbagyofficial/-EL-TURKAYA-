@@ -158,7 +158,7 @@ export function SponsorshipSection() {
             </div>
           </div>
 
-          <div className="mt-6 grid grid-cols-2 gap-4 sm:grid-cols-4">
+          <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-3">
             {sponsorsData.brands
               .filter((b) => b.publicVisible)
               .map((brand) => (
