@@ -17,7 +17,9 @@ export default function MediaKitPage() {
   const { locale, isRtl, toggleLocale } = useLanguage();
   const BackArrow = isRtl ? ArrowRight : ArrowLeft;
   const verifiedGuests = guestsData.guests.filter(
-    (g) => g.verificationStatus === "VERIFIED"
+    (g) =>
+      g.verificationStatus === "VERIFIED" &&
+      !("publicVisible" in g && g.publicVisible === false)
   );
 
   return (
@@ -189,7 +191,7 @@ export default function MediaKitPage() {
             <p className="font-bold text-[#090C16]">{companyData.legalDisplay}</p>
             <p className="mt-1">{companyData.contact.address[locale]}</p>
             <p className="mt-1" dir="ltr">
-              {companyData.contact.phones.join(" • ")} | {companyData.websiteDisplay}
+              {companyData.contact.phones.join(" • ")} | WhatsApp: {companyData.contact.whatsappDigits} | {companyData.websiteDisplay}
             </p>
           </footer>
         </article>

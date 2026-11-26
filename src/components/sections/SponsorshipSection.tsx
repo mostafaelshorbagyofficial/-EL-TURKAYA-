@@ -1,9 +1,11 @@
 "use client";
 
 import React, { useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
-import { CheckCircle2, FileText, MapPin, Phone, Send } from "lucide-react";
+import { CheckCircle2, FileText, MapPin, MessageCircle, Phone, Send } from "lucide-react";
 import sponsorshipData from "@/data/sponsorship.json";
+import sponsorsData from "@/data/sponsors.json";
 import companyData from "@/data/company.json";
 import { useLanguage } from "@/components/providers/LanguageProvider";
 import { RevealInView } from "@/components/ui/MotionPrimitives";
@@ -140,6 +142,50 @@ export function SponsorshipSection() {
                 </p>
               </div>
             ))}
+          </div>
+        </RevealInView>
+
+        {/* Featured Brands & Partner Logos Showcase */}
+        <RevealInView className="mt-14">
+          <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <h3 className="text-xl font-extrabold text-[#090C16] sm:text-2xl">
+                {sponsorsData.sectionTitle[locale]}
+              </h3>
+              <p className="mt-1 text-sm text-[#5A647A]">
+                {sponsorsData.sectionSubtitle[locale]}
+              </p>
+            </div>
+          </div>
+
+          <div className="mt-6 grid grid-cols-2 gap-4 sm:grid-cols-4">
+            {sponsorsData.brands
+              .filter((b) => b.publicVisible)
+              .map((brand) => (
+                <div
+                  key={brand.id}
+                  className="flex flex-col items-center justify-between rounded-2xl border border-[#090C16]/10 bg-[#FFFFFF] p-5 text-center shadow-2xs transition-colors hover:border-[#2F3B8E]/35"
+                >
+                  <div className="flex h-24 w-full items-center justify-center p-2">
+                    <Image
+                      src={brand.logo}
+                      alt={brand.name[locale]}
+                      width={220}
+                      height={120}
+                      loading="lazy"
+                      className="max-h-20 w-auto max-w-full object-contain"
+                    />
+                  </div>
+                  <div className="mt-3 border-t border-[#090C16]/8 pt-3 w-full">
+                    <p className="text-xs font-bold text-[#090C16] sm:text-sm">
+                      {brand.name[locale]}
+                    </p>
+                    <p className="mt-0.5 text-[11px] text-[#5A647A]">
+                      {brand.category[locale]}
+                    </p>
+                  </div>
+                </div>
+              ))}
           </div>
         </RevealInView>
 
@@ -393,7 +439,7 @@ export function SponsorshipSection() {
                 <div className="mt-6 space-y-4 border-t border-[var(--border-dark)] pt-6 text-sm">
                   <div className="flex items-start gap-3">
                     <Phone className="mt-0.5 h-4 w-4 shrink-0 text-[#FE7C01]" aria-hidden="true" />
-                    <div className="flex flex-col gap-1" dir="ltr">
+                    <div className="flex flex-col gap-2" dir="ltr">
                       {companyData.contact.phones.map((phone) => (
                         <a
                           key={phone}
@@ -403,6 +449,17 @@ export function SponsorshipSection() {
                           {phone}
                         </a>
                       ))}
+                      <a
+                        href={companyData.contact.whatsappUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex min-h-[40px] w-fit items-center gap-2 rounded-lg bg-[#25D366] px-3.5 text-xs font-bold text-[#090C16] transition-opacity hover:opacity-90"
+                      >
+                        <MessageCircle className="h-4 w-4" aria-hidden="true" />
+                        <span>
+                          {locale === "ar" ? "تواصل عبر واتساب" : "Chat on WhatsApp"}
+                        </span>
+                      </a>
                     </div>
                   </div>
 

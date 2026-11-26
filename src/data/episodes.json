@@ -272,6 +272,7 @@
       "channelName": "Mohamed Elhagan",
       "platformLinks": [],
       "publicationStatus": "UNPUBLISHED",
+      "publicVisible": false,
       "viewCount": null,
       "viewCountNumeric": null,
       "publishedAt": null,

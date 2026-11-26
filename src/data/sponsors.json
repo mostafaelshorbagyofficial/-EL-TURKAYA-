@@ -1,0 +1,64 @@
+{
+  "sectionTitle": {
+    "ar": "شركاء وعلامات تجارية",
+    "en": "Featured Brands & Partners"
+  },
+  "sectionSubtitle": {
+    "ar": "علامات تجارية رائدة في مجالات الإلكترونيات، الرعاية الطبية، والسيارات.",
+    "en": "Leading brands across retail, specialized healthcare, automotive, and mobility."
+  },
+  "brands": [
+    {
+      "id": "dream-store",
+      "name": { "ar": "دريم ستور (Dream)", "en": "Dream Store" },
+      "category": { "ar": "الإلكترونيات والتجزئة", "en": "Consumer Electronics & Retail" },
+      "logo": "/assets/sponsors/dream-store.png",
+      "source": "D:\\mhare3\\بروتو\\logo\\WhatsApp Image 2026-10-05 at 9.17.03 PM (1).jpeg + dreamstores-eg.com",
+      "status": "VERIFIED",
+      "publicVisible": true
+    },
+    {
+      "id": "nour-el-hayah",
+      "name": { "ar": "مستشفى نور الحياة للخصوبة", "en": "Nour El Hayah Fertility Hospital" },
+      "category": { "ar": "الرعاية الطبية المتخصصة", "en": "Specialized Healthcare" },
+      "logo": "/assets/sponsors/nour-el-hayah.png",
+      "source": "Pro Media portfolio.pdf (p. 22) + nouralhayahivf.net",
+      "status": "VERIFIED",
+      "publicVisible": true
+    },
+    {
+      "id": "mg-motor",
+      "name": { "ar": "إم جي (MG Motor)", "en": "MG Motor" },
+      "category": { "ar": "السيارات", "en": "Automotive" },
+      "logo": "/assets/sponsors/mg-motor.svg",
+      "source": "Official MG Motor corporate SVG",
+      "status": "VERIFIED",
+      "publicVisible": true
+    },
+    {
+      "id": "harley-davidson",
+      "name": { "ar": "هارلي ديفيدسون (Harley-Davidson)", "en": "Harley-Davidson" },
+      "category": { "ar": "الدراجات النارية", "en": "Motorcycles & Lifestyle" },
+      "logo": "/assets/sponsors/harley-davidson.svg",
+      "source": "Official Harley-Davidson Bar & Shield SVG",
+      "status": "VERIFIED",
+      "publicVisible": true
+    }
+  ],
+  "pendingClarification": [
+    {
+      "id": "five-star-clarification",
+      "requestedName": "Five Star — fried chicken brand",
+      "status": "PENDING_CLARIFICATION",
+      "publicVisible": false,
+      "note": "ProMedia's portfolio (p. 22 & Ahmed Hassan Five Roosters folder) features '5 Roosters Fried Chicken' in Egypt, while 'Five Star Chicken' is an international Asian chain. Excluded until confirmed which brand is intended."
+    },
+    {
+      "id": "al-code-clarification",
+      "requestedName": "الكود",
+      "status": "PENDING_CLARIFICATION",
+      "publicVisible": false,
+      "note": "No asset named 'الكود' was found in D:\\mhare3\\بروتو\\logo (which contains Osool, ProTech, Alaraby+, Blueview, Dream Store, HaliDigital, and TURKEYA). Excluded until confirmed."
+    }
+  ]
+}

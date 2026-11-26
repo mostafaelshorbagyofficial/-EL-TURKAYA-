@@ -15,6 +15,7 @@ export function EpisodesSection() {
   const [activeVideoId, setActiveVideoId] = useState<string | null>(null);
 
   const filteredEpisodes = episodesData.episodes.filter((ep) => {
+    if ("publicVisible" in ep && ep.publicVisible === false) return false;
     if (filter === "ALL") return true;
     if (filter === "PUBLISHED") return ep.publicationStatus === "PUBLISHED";
     return ep.publicationStatus !== "PUBLISHED";

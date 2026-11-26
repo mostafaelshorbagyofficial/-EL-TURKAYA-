@@ -1,0 +1,129 @@
+{
+  "eyebrow": {
+    "ar": "من داخل استوديو التركايه",
+    "en": "EPISODE MOMENTS"
+  },
+  "title": {
+    "ar": "من مشاهد الحلقات",
+    "en": "Episode Moments"
+  },
+  "subtitle": {
+    "ar": "كادرات سينمائية حقيقية من حلقات الموسم الأول تجمع لقطة الضيف ومقدم البرنامج والكادر الواسع داخل الاستوديو.",
+    "en": "Authentic three-shot cinematic frames from Season One episodes capturing the guest close-up, host perspective, and wide studio conversation."
+  },
+  "studioLocationTitle": {
+    "ar": "لوكيشن تصوير برنامج التركايه",
+    "en": "TURKEYA Studio Set"
+  },
+  "studioShots": [
+    {
+      "id": "studio-wide",
+      "src": "/assets/location/studio-wide-turkeya.jpeg",
+      "width": 1280,
+      "height": 853,
+      "alt": {
+        "ar": "اللقطة الواسعة لاستوديو برنامج التركايه مع الشعار الخشبي الرئيسي",
+        "en": "Wide view of the TURKEYA talk-show studio set featuring the signature wood backdrop"
+      }
+    },
+    {
+      "id": "studio-mic-1",
+      "src": "/assets/location/studio-mic-angle-1.jpeg",
+      "width": 1280,
+      "height": 853,
+      "alt": {
+        "ar": "زاوية ميكروفون البث والإضاءة الدافئة في استوديو التركايه",
+        "en": "Broadcast microphone and warm studio lighting in the TURKEYA set"
+      }
+    },
+    {
+      "id": "studio-mic-2",
+      "src": "/assets/location/studio-mic-angle-2.jpeg",
+      "width": 1280,
+      "height": 853,
+      "alt": {
+        "ar": "زاوية التصوير المقابلة داخل استوديو التركايه",
+        "en": "Reverse camera angle inside the TURKEYA studio set"
+      }
+    }
+  ],
+  "frames": [
+    {
+      "id": "frame-nesma-khader",
+      "guestId": "nesma-khader",
+      "episodeId": "s1-e07",
+      "guestName": { "ar": "نسمة خضر", "en": "Nesma Khader" },
+      "episodeLabel": { "ar": "الحلقة مع نسمة خضر", "en": "Episode with Nesma Khader" },
+      "caption": { "ar": "مشاهد من حلقة نسمة خضر", "en": "Scenes from Nesma Khader's episode" },
+      "image": "/assets/frames/frame-nesma-khader.jpeg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "frame-dr-luna-el-hefny",
+      "guestId": "dr-luna-el-hanafy",
+      "episodeId": "s1-e03",
+      "guestName": { "ar": "د. لونا الحفني", "en": "Dr. Luna El Hefny" },
+      "episodeLabel": { "ar": "الحلقة مع د. لونا الحفني", "en": "Episode with Dr. Luna El Hefny" },
+      "caption": { "ar": "مشاهد من حلقة د. لونا الحفني", "en": "Scenes from Dr. Luna El Hefny's episode" },
+      "image": "/assets/frames/frame-dr-luna-el-hefny.jpeg",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "frame-mostafa-gamal",
+      "guestId": "mostafa-gamal",
+      "episodeId": "s1-e02",
+      "guestName": { "ar": "مصطفى جمال", "en": "Mostafa Gamal" },
+      "episodeLabel": { "ar": "الحلقة مع مصطفى جمال", "en": "Episode with Mostafa Gamal" },
+      "caption": { "ar": "مشاهد من حلقة مصطفى جمال", "en": "Scenes from Mostafa Gamal's episode" },
+      "image": "/assets/frames/frame-mostafa-gamal.jpeg",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "frame-dr-osama-taha",
+      "guestId": "dr-osama-taha",
+      "episodeId": "s1-e05",
+      "guestName": { "ar": "أ.د. أسامة طه", "en": "Prof. Dr. Osama Taha" },
+      "episodeLabel": { "ar": "الحلقة مع أ.د. أسامة طه", "en": "Episode with Prof. Dr. Osama Taha" },
+      "caption": { "ar": "مشاهد من حلقة أ.د. أسامة طه", "en": "Scenes from Prof. Dr. Osama Taha's episode" },
+      "image": "/assets/frames/frame-dr-osama-taha.jpeg",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "frame-dr-ehab-mesallum",
+      "guestId": "ehab-muslim",
+      "episodeId": "s1-e08",
+      "guestName": { "ar": "د. إيهاب مسلم", "en": "Dr. Ehab Mesallum" },
+      "episodeLabel": { "ar": "الحلقة مع د. إيهاب مسلم", "en": "Episode with Dr. Ehab Mesallum" },
+      "caption": { "ar": "مشاهد من حلقة د. إيهاب مسلم", "en": "Scenes from Dr. Ehab Mesallum's episode" },
+      "image": "/assets/frames/frame-dr-ehab-mesallum.jpeg",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "frame-amr-ezz",
+      "guestId": "amr-ezz",
+      "episodeId": "s1-e06",
+      "guestName": { "ar": "عمرو عز الدين", "en": "Amr Ezz" },
+      "episodeLabel": { "ar": "الحلقة مع عمرو عز الدين", "en": "Episode with Amr Ezz" },
+      "caption": { "ar": "مشاهد من حلقة عمرو عز الدين", "en": "Scenes from Amr Ezz's episode" },
+      "image": "/assets/frames/frame-amr-ezz.jpeg",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "frame-el-zozat",
+      "guestId": "el-zozat",
+      "episodeId": "s1-e01",
+      "guestName": { "ar": "الزوزات", "en": "El-Zozat" },
+      "episodeLabel": { "ar": "الحلقة مع الزوزات", "en": "Episode with El-Zozat" },
+      "caption": { "ar": "مشاهد من حلقة الزوزات", "en": "Scenes from El-Zozat's episode" },
+      "image": "/assets/frames/frame-el-zozat.jpeg",
+      "width": 1600,
+      "height": 900
+    }
+  ]
+}

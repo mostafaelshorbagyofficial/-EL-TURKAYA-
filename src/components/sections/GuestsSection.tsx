@@ -22,10 +22,13 @@ export function GuestsSection() {
     return () => window.removeEventListener("keydown", onKeyDown);
   }, [selectedGuest]);
 
-  const publicGuests = guestsData.guests.filter(
+  const visibleGuests = guestsData.guests.filter(
+    (g) => !("publicVisible" in g && g.publicVisible === false)
+  );
+  const publicGuests = visibleGuests.filter(
     (g) => g.verificationStatus === "VERIFIED"
   );
-  const upcomingGuests = guestsData.guests.filter(
+  const upcomingGuests = visibleGuests.filter(
     (g) => g.verificationStatus !== "VERIFIED"
   );
 

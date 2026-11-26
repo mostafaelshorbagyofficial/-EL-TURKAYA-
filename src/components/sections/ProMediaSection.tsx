@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Clapperboard, Compass, ExternalLink, Handshake, Layers, MapPin, Phone } from "lucide-react";
+import { Clapperboard, Compass, ExternalLink, Handshake, Layers, MapPin, MessageCircle, Phone } from "lucide-react";
 import companyData from "@/data/company.json";
 import { useLanguage } from "@/components/providers/LanguageProvider";
 import { RevealInView } from "@/components/ui/MotionPrimitives";
@@ -45,18 +45,27 @@ export function ProMediaSection() {
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-[#FE7C01]" aria-hidden="true" />
                 <span>{companyData.contact.address[locale]}</span>
               </div>
-              <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
+              <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
                 {companyData.contact.phones.map((phone) => (
                   <a
                     key={phone}
                     href={`tel:${phone.replace(/\s+/g, "")}`}
                     dir="ltr"
-                    className="inline-flex min-h-[36px] items-center gap-2 font-semibold text-[#F8FAFC] hover:text-[#F0C188]"
+                    className="inline-flex min-h-[44px] items-center gap-2 font-semibold text-[#F8FAFC] hover:text-[#F0C188]"
                   >
                     <Phone className="h-3.5 w-3.5 text-[#FE7C01]" aria-hidden="true" />
                     <span>{phone}</span>
                   </a>
                 ))}
+                <a
+                  href={companyData.contact.whatsappUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex min-h-[44px] items-center gap-2 rounded-lg border border-[#25D366]/35 bg-[#25D366]/10 px-3 text-xs font-bold text-[#25D366] transition-colors hover:bg-[#25D366]/20"
+                >
+                  <MessageCircle className="h-3.5 w-3.5" aria-hidden="true" />
+                  <span>{locale === "ar" ? "واتساب" : "WhatsApp"}</span>
+                </a>
               </div>
               <div className="pt-1">
                 <a

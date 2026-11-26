@@ -30,7 +30,7 @@
           "en": "Public speaker at Egyptian university and career development summits"
         }
       ],
-      "episodeId": "s1-e01",
+      "episodeId": "s1-e02",
       "socialLinks": [
         { "platform": "Website", "label": "mostafagamal.com", "url": "https://mostafagamal.com", "status": "VERIFIED" }
       ],
@@ -68,7 +68,7 @@
           "en": "Featured medical guest on Al-Nahar, Sada El-Balad, and TeN TV networks"
         }
       ],
-      "episodeId": "s1-e02",
+      "episodeId": "s1-e03",
       "socialLinks": [
         { "platform": "Website", "label": "minimeeg.com", "url": "https://minimeeg.com", "status": "VERIFIED" }
       ],
@@ -145,7 +145,7 @@
           "en": "Recognized specialist in metabolic surgery and post-weight-loss body contouring"
         }
       ],
-      "episodeId": "s1-e04",
+      "episodeId": "s1-e05",
       "socialLinks": [
         { "platform": "Website", "label": "osama-taha.com", "url": "https://www.osama-taha.com", "status": "VERIFIED" }
       ],
@@ -222,7 +222,7 @@
           "en": "Featured media guest on dmc, ON, Sada El-Balad, and ETC networks"
         }
       ],
-      "episodeId": "s1-e06",
+      "episodeId": "s1-e07",
       "socialLinks": [],
       "sources": ["Cairo24 & Egyptian TV appearances (dmc, ON, Sada El-Balad)"],
       "verificationStatus": "VERIFIED",
@@ -257,7 +257,7 @@
           "en": "Over 40 years of executive consulting and corporate growth leadership"
         }
       ],
-      "episodeId": "s1-e07",
+      "episodeId": "s1-e08",
       "socialLinks": [
         { "platform": "Website", "label": "ehabmesallum.com", "url": "https://www.ehabmesallum.com/", "status": "VERIFIED" },
         { "platform": "YouTube", "label": "@ehabmes", "url": "https://www.youtube.com/@ehabmes", "status": "VERIFIED" },
@@ -288,7 +288,7 @@
           "en": "Featured guests on TURKEYA Episode 01 (2,289 verified public YouTube views)"
         }
       ],
-      "episodeId": "s1-e01",
+      "episodeId": "s1-e02",
       "socialLinks": [],
       "sources": ["https://www.youtube.com/watch?v=ZSIZsLvCaC0"],
       "verificationStatus": "VERIFIED",
@@ -316,6 +316,7 @@
     {
       "id": "saudi-guest-pending",
       "order": 9,
+      "publicVisible": false,
       "name": { "ar": "ضيف من المملكة العربية السعودية", "en": "Guest from Saudi Arabia" },
       "title": {
         "ar": "حلقة مصوّرة — جاري تأكيد الاسم والملف التعريفي",
@@ -333,14 +334,5 @@
       "portraitStatus": "MISSING"
     }
   ],
-  "unconfirmedLocalAssets": [
-    {
-      "id": "el-zozat",
-      "filename": "الزوزات.jpeg",
-      "portrait": "/assets/الزوزات.jpeg",
-      "portraitDimensions": { "width": 303, "height": 403 },
-      "status": "UNCERTAIN",
-      "note": "Present in D:\\mhare3\\pro\\التركايه but not confirmed on the initial 9-guest brief. Excluded from public guest cards until confirmed."
-    }
-  ]
+  "unconfirmedLocalAssets": []
 }

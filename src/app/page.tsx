@@ -2,12 +2,14 @@ import { SiteHeader } from "@/components/layout/SiteHeader";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { HeroPrototype } from "@/components/sections/HeroPrototype";
 import { AboutSection } from "@/components/sections/AboutSection";
-import { SeasonImpactSection } from "@/components/sections/SeasonImpactSection";
+import { HostSection } from "@/components/sections/HostSection";
+import { EpisodeMomentsSection } from "@/components/sections/EpisodeMomentsSection";
 import { GuestsSection } from "@/components/sections/GuestsSection";
 import { EpisodesSection } from "@/components/sections/EpisodesSection";
-import { HostSection } from "@/components/sections/HostSection";
+import { SeasonImpactSection } from "@/components/sections/SeasonImpactSection";
 import { ProMediaSection } from "@/components/sections/ProMediaSection";
 import { SponsorshipSection } from "@/components/sections/SponsorshipSection";
+import { FloatingWhatsApp } from "@/components/ui/FloatingWhatsApp";
 
 export default function HomePage() {
   return (
@@ -16,14 +18,16 @@ export default function HomePage() {
       <main id="main-content" className="flex-1">
         <HeroPrototype />
         <AboutSection />
-        <SeasonImpactSection />
+        <HostSection />
+        <EpisodeMomentsSection />
         <GuestsSection />
         <EpisodesSection />
-        <HostSection />
+        <SeasonImpactSection />
         <ProMediaSection />
         <SponsorshipSection />
       </main>
       <SiteFooter />
+      <FloatingWhatsApp />
     </>
   );
 }

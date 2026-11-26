@@ -74,6 +74,22 @@ export function SiteFooter() {
             <span className="text-xs text-[#94A3B8]" dir="ltr">
               {companyData.websiteDisplay}
             </span>
+            <div className="mt-1 flex flex-wrap items-center gap-3 text-xs" dir="ltr">
+              <a
+                href={`tel:${companyData.contact.phones[0].replace(/\s+/g, "")}`}
+                className="font-semibold text-[#F8FAFC] hover:text-[#F0C188]"
+              >
+                {companyData.contact.phones[0]}
+              </a>
+              <a
+                href={companyData.contact.whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold text-[#25D366] hover:underline"
+              >
+                WhatsApp
+              </a>
+            </div>
           </div>
         </div>
 
