@@ -175,9 +175,21 @@ export function EpisodesSection() {
                       )}
 
                       {ep.viewCount && (
-                        <span className="tabular-nums inline-flex items-center gap-1">
-                          <Eye className="h-3.5 w-3.5" aria-hidden="true" />
-                          <span>{ep.viewCount}</span>
+                        <span
+                          className="tabular-nums inline-flex items-center gap-1.5 text-[#F0C188]"
+                          title={
+                            locale === "ar"
+                              ? "إجمالي المشاهدات عبر جميع منصات التواصل الاجتماعي"
+                              : "Total views across all social media platforms"
+                          }
+                        >
+                          <Eye className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
+                          <span>
+                            {locale === "ar" ? "إجمالي المشاهدات:" : "Total Views:"}
+                          </span>
+                          <span dir="ltr" className="font-bold">
+                            {ep.viewCount}
+                          </span>
                         </span>
                       )}
                     </div>
