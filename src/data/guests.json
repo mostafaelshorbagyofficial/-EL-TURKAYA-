@@ -297,37 +297,53 @@
     {
       "id": "dr-ahmed-el-shafie",
       "order": 8,
-      "name": { "ar": "د. أحمد الشافعي", "en": "Dr. Ahmed El Shafie" },
+      "name": { "ar": "د. أحمد الشافعي", "en": "Dr. Ahmed El Shafei" },
       "title": {
-        "ar": "ضيف الموسم الأول — جاري استكمال البيانات والصورة الرسمية",
-        "en": "Season One Guest — Biography & Portrait Pending Verification"
+        "ar": "شخصية عامة رقمية • رائج ديجيتال — 2.8 مليون متابع",
+        "en": "Digital Public Figure • RA2EJ DIGITAL — 2.8M Followers"
       },
-      "portrait": null,
-      "portraitDimensions": null,
-      "objectPosition": "center center",
-      "biography": { "ar": "", "en": "" },
-      "achievements": [],
-      "episodeId": "s1-e08",
-      "socialLinks": [],
-      "sources": [],
-      "verificationStatus": "PENDING",
-      "portraitStatus": "MISSING"
+      "portrait": "/assets/ahmed-el-shafei.jpeg",
+      "portraitDimensions": { "width": 720, "height": 540 },
+      "objectPosition": "center 18%",
+      "biography": {
+        "ar": "شخصية عامة رقمية مصرية من المنصورة، يمتلك حضوراً واسعاً على منصات التواصل الاجتماعي بأكثر من 2.8 مليون متابع على فيسبوك وحضور نشط على إنستغرام وتيك توك. مرتبط بمنصة رائج ديجيتال (RA2EJ DIGITAL) في مجال المحتوى الرقمي.",
+        "en": "Egyptian digital public figure based in Mansoura with over 2.8 million Facebook followers and an active presence on Instagram and TikTok. Associated with the RA2EJ DIGITAL platform in the digital content space."
+      },
+      "achievements": [
+        {
+          "ar": "أكثر من 2.8 مليون متابع على صفحته الرسمية الموثقة على فيسبوك",
+          "en": "Over 2.8 million followers on his verified Facebook page"
+        },
+        {
+          "ar": "حساب موثق بعلامة التحقق الزرقاء على فيسبوك",
+          "en": "Blue-verified account on Facebook"
+        }
+      ],
+      "episodeId": "s1-e09",
+      "socialLinks": [
+        { "platform": "Facebook", "label": "Shafei01", "url": "https://www.facebook.com/Shafei01", "status": "VERIFIED" },
+        { "platform": "Instagram", "label": "drahmedalshafei6", "url": "https://www.instagram.com/drahmedalshafei6", "status": "VERIFIED" },
+        { "platform": "TikTok", "label": "drahmedalshafei", "url": "https://www.tiktok.com/@drahmedalshafei", "status": "VERIFIED" }
+      ],
+      "sources": ["https://www.facebook.com/Shafei01"],
+      "verificationStatus": "VERIFIED",
+      "portraitStatus": "CONFIRMED_EPISODE_STILL"
     },
     {
-      "id": "saudi-guest-pending",
+      "id": "sami-al-othman",
       "order": 9,
-      "publicVisible": false,
-      "name": { "ar": "ضيف من المملكة العربية السعودية", "en": "Guest from Saudi Arabia" },
+      "publicVisible": true,
+      "name": { "ar": "سامي آل عثمان", "en": "Sami Al Othman" },
       "title": {
-        "ar": "حلقة مصوّرة — جاري تأكيد الاسم والملف التعريفي",
-        "en": "Filmed Episode — Name & Profile Pending Confirmation"
+        "ar": "ضيف الموسم الأول — المملكة العربية السعودية",
+        "en": "Season One Guest — Saudi Arabia"
       },
       "portrait": null,
       "portraitDimensions": null,
       "objectPosition": "center center",
       "biography": { "ar": "", "en": "" },
       "achievements": [],
-      "episodeId": "s1-e09",
+      "episodeId": "s1-e10",
       "socialLinks": [],
       "sources": [],
       "verificationStatus": "PENDING",

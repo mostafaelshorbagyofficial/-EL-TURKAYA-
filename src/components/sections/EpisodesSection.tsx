@@ -84,6 +84,12 @@ export function EpisodesSection() {
             const isPlaying = Boolean(videoId && activeVideoId === videoId);
             const isPublished = ep.publicationStatus === "PUBLISHED";
 
+            // Prefer YouTube thumbnail; fall back to local portrait thumbnail
+            const thumbSrc: string | null =
+              ("youtubeThumbnail" in ep && ep.youtubeThumbnail
+                ? ep.youtubeThumbnail
+                : ep.thumbnail) ?? null;
+
             return (
               <RevealInView key={ep.id} delay={Math.min(idx * 0.04, 0.2)}>
                 <article className="flex h-full flex-col overflow-hidden rounded-2xl border border-[var(--border-dark)] bg-[#111629]">
@@ -99,9 +105,9 @@ export function EpisodesSection() {
                       />
                     ) : (
                       <>
-                        {ep.thumbnail ? (
+                        {thumbSrc ? (
                           <Image
-                            src={ep.thumbnail}
+                            src={thumbSrc}
                             alt={ep.title[locale]}
                             fill
                             loading="lazy"

@@ -235,13 +235,13 @@
       "videoId": null,
       "title": {
         "ar": "حلقة قادمة — د. أحمد الشافعي",
-        "en": "Upcoming Episode — Dr. Ahmed El Shafie"
+        "en": "Upcoming Episode — Dr. Ahmed El Shafei"
       },
       "description": {
-        "ar": "حلقة مصوّرة ضمن الموسم الأول — يتم نشر رابط المشاهدة والتفاصيل فور إتاحتها رسمياً.",
-        "en": "Season One episode — official watch link and full details will be published upon release."
+        "ar": "حلقة مصوّرة ضمن الموسم الأول مع الشخصية العامة الرقمية د. أحمد الشافعي — يتم نشر رابط المشاهدة والتفاصيل فور إتاحتها رسمياً.",
+        "en": "Season One episode with digital public figure Dr. Ahmed El Shafei — official watch link and full details will be published upon release."
       },
-      "thumbnail": null,
+      "thumbnail": "/assets/ahmed-el-shafei.jpeg",
       "youtubeThumbnail": null,
       "youtubeUrl": null,
       "channelName": "Mohamed Elhagan",
@@ -254,17 +254,17 @@
     },
     {
       "id": "s1-e10",
-      "slug": "saudi-guest",
+      "slug": "sami-al-othman",
       "episodeNumber": 10,
-      "guestId": "saudi-guest-pending",
+      "guestId": "sami-al-othman",
       "videoId": null,
       "title": {
-        "ar": "حلقة قادمة — ضيف من المملكة العربية السعودية",
-        "en": "Upcoming Episode — Guest from Saudi Arabia"
+        "ar": "حلقة قادمة — سامي آل عثمان",
+        "en": "Upcoming Episode — Sami Al Othman"
       },
       "description": {
-        "ar": "حلقة مصوّرة ضمن الموسم الأول — جاري تأكيد بيانات الضيف وموعد النشر.",
-        "en": "Season One episode — guest identity and release schedule awaiting confirmation."
+        "ar": "حلقة مصوّرة ضمن الموسم الأول مع الضيف السعودي سامي آل عثمان — جاري نشر التفاصيل فور إتاحتها رسمياً.",
+        "en": "Season One episode with Saudi guest Sami Al Othman — full details will be published upon official release."
       },
       "thumbnail": null,
       "youtubeThumbnail": null,
