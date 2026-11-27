@@ -4,8 +4,8 @@
     "en": "Featured Brands & Partners"
   },
   "sectionSubtitle": {
-    "ar": "علامات تجارية رائدة في مجالات الإلكترونيات، الرعاية الطبية، والسيارات.",
-    "en": "Leading brands across retail, specialized healthcare, automotive, and mobility."
+    "ar": "علامات تجارية رائدة في الإلكترونيات، الرعاية الطبية، التكنولوجيا، والضيافة.",
+    "en": "Leading brands across retail, specialized healthcare, technology, travel, and food."
   },
   "brands": [
     {
@@ -27,29 +27,31 @@
       "publicVisible": true
     },
     {
-      "id": "mg-motor",
-      "name": { "ar": "إم جي (MG Motor)", "en": "MG Motor" },
-      "category": { "ar": "السيارات", "en": "Automotive" },
-      "logo": "/assets/sponsors/mg-motor.svg",
-      "source": "Official MG Motor corporate SVG",
+      "id": "protech",
+      "name": { "ar": "بروتك للتكنولوجيا", "en": "ProTech" },
+      "category": { "ar": "التكنولوجيا وحلول الأعمال", "en": "Technology & Business Solutions" },
+      "logo": "/assets/sponsors/protech.png",
+      "source": "D:\\mhare3\\pro\\التركايه\\logo الرعاه\\protech.png",
       "status": "VERIFIED",
       "publicVisible": true
-    }
-  ],
-  "pendingClarification": [
-    {
-      "id": "five-star-clarification",
-      "requestedName": "Five Star — fried chicken brand",
-      "status": "PENDING_CLARIFICATION",
-      "publicVisible": false,
-      "note": "ProMedia's portfolio (p. 22 & Ahmed Hassan Five Roosters folder) features '5 Roosters Fried Chicken' in Egypt, while 'Five Star Chicken' is an international Asian chain. Excluded until confirmed which brand is intended."
     },
     {
-      "id": "al-code-clarification",
-      "requestedName": "الكود",
-      "status": "PENDING_CLARIFICATION",
-      "publicVisible": false,
-      "note": "No asset named 'الكود' was found in D:\\mhare3\\بروتو\\logo (which contains Osool, ProTech, Alaraby+, Blueview, Dream Store, HaliDigital, and TURKEYA). Excluded until confirmed."
+      "id": "five-roosters",
+      "name": { "ar": "5 ديوك دجاج مقلي", "en": "5 Roosters Fried Chicken" },
+      "category": { "ar": "الأغذية والمطاعم", "en": "Food & Restaurants" },
+      "logo": "/assets/sponsors/5-roosters.png",
+      "source": "D:\\mhare3\\pro\\التركايه\\logo الرعاه\\5-roosters.png",
+      "status": "VERIFIED",
+      "publicVisible": true
+    },
+    {
+      "id": "mg-international",
+      "name": { "ar": "إم جي إنترناشيونال للسفر والفيزا", "en": "MG International — Travel & Visa" },
+      "category": { "ar": "السياحة والسفر", "en": "Travel & Tourism" },
+      "logo": "/assets/sponsors/mg-international.jpg",
+      "source": "D:\\mhare3\\pro\\التركايه\\logo الرعاه\\MG International Visa.jpg",
+      "status": "VERIFIED",
+      "publicVisible": true
     }
   ]
 }
